@@ -1,0 +1,2 @@
+﻿#define CPPDLL_API __declspec(dllexport)
+#define CPPDLL_API __declspec(dllimport)

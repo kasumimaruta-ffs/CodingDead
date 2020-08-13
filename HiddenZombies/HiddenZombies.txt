@@ -1,0 +1,3878 @@
+                                                                     Page 1
+                         Data Dictionary Summary Report
+===============================================================================
+
+[unnamed]   (Unresolved Parameter)
+   [CppDll.h, 14]
+
+[unnamed]   (Unresolved Parameter)
+   [CppDll.h, 14]
+
+[unnamed]   (Unresolved Parameter)
+   [CppDll.h, 14]
+
+[unnamed]   (Unresolved Parameter)
+   [CppDll.h, 14]
+
+[unnamed]   (Unresolved Parameter)
+   [MFCApplication1Dlg.cpp, 18]
+
+[unnamed]   (Unresolved Parameter)
+   [MFCApplication1Dlg.cpp, 18]
+
+[unnamed]   (Unresolved Parameter)
+   [ClassPolymorphic.h, 6]
+
+[unnamed]   (Unresolved Parameter)
+   [ClassPolymorphic.h, 6]
+
+[unnamed]   (Unresolved Parameter)
+   [ClassPolymorphic.h, 6]
+
+[unnamed]   (Unresolved Parameter)
+   [ClassPolymorphic.h, 6]
+
+[unnamed]   (Unresolved Parameter)
+   [ClassPolymorphic.h, 13]
+
+[unnamed]   (Unresolved Parameter)
+   [ClassPolymorphic.h, 13]
+
+[unnamed]   (Unresolved Parameter)
+   [ClassPolymorphic.h, 13]
+
+[unnamed]   (Unresolved Parameter)
+   [ClassPolymorphic.h, 13]
+
+[unnamed]   (Unresolved Parameter)
+   [ClassPolymorphic.h, 20]
+
+[unnamed]   (Unresolved Parameter)
+   [ClassPolymorphic.h, 20]
+
+[unnamed]   (Unresolved Parameter)
+   [ClassPolymorphic.h, 20]
+
+[unnamed]   (Unresolved Parameter)
+   [ClassPolymorphic.h, 20]
+                                                                     Page 2
+                         Data Dictionary Summary Report
+===============================================================================
+
+[unnamed]   (Unresolved Parameter)
+   [ClassPolymorphic.h, 30]
+
+[unnamed]   (Unresolved Parameter)
+   [ClassPolymorphic.h, 30]
+
+[unnamed]   (Unresolved Parameter)
+   [CppConsoleApp.cpp, 58]
+
+[unnamed]   (Unresolved Parameter)
+   [CppConsoleApp.cpp, 58]
+
+__AFXWIN_H__   (Unknown Macro)
+
+_AFX_ALL_WARNINGS   (Macro)
+   [framework.h, 12]
+
+_AFX_NO_AFXCMN_SUPPORT   (Unknown Macro)
+
+_AFX_NO_MFC_CONTROLS_IN_DIALOGS   (Unknown Macro)
+
+_AFX_NO_OLE_SUPPORT   (Unknown Macro)
+
+_AFXDLL   (Unknown Macro)
+
+_ATL_CSTRING_EXPLICIT_CONSTRUCTORS   (Macro)
+   [framework.h, 9]
+
+_DEBUG   (Macro)
+
+_M_IX86   (Unknown Macro)
+
+_M_X64   (Macro)
+
+_UNICODE   (Macro)
+
+abstructclass   (Abstract Class)
+   [ClassPolymorphic.h, 6]
+
+abstructclass::abstructclass   (Public Function)
+   [ClassPolymorphic.h, 6]
+
+abstructclass::abstructclass   (Public Function)
+   [ClassPolymorphic.h, 6]
+
+abstructclass::abstructclass   (Public Function)
+   [ClassPolymorphic.h, 6]
+
+abstructclass::memfunc1   (Public Pure Virtual Function)
+   [ClassPolymorphic.cpp, 15]
+
+abstructclass::memfunc2   (Public Pure Virtual Function)
+   [ClassPolymorphic.cpp, 20]
+                                                                     Page 3
+                         Data Dictionary Summary Report
+===============================================================================
+
+abstructclass::operator=   (Public Function)
+   [ClassPolymorphic.h, 6]
+
+abstructclass::operator=   (Public Function)
+   [ClassPolymorphic.h, 6]
+
+abstructclass::~abstructclass   (Public Function)
+   [ClassPolymorphic.h, 6]
+
+AFX_DESIGN_TIME   (Unknown Macro)
+
+AFX_DESIGN_TIME   (Unknown Macro)
+
+APIENTRY   (Macro)
+
+APSTUDIO_INVOKED   (Unknown Macro)
+
+baseclass   (Class)
+   [ClassPolymorphic.h, 13]
+
+baseclass::baseclass   (Public Function)
+   [ClassPolymorphic.h, 13]
+
+baseclass::baseclass   (Public Function)
+   [ClassPolymorphic.h, 13]
+
+baseclass::baseclass   (Public Function)
+   [ClassPolymorphic.h, 13]
+
+baseclass::memfunc1   (Public Virtual Function)
+   [ClassPolymorphic.cpp, 27]
+
+baseclass::memfunc2   (Public Virtual Function)
+   [ClassPolymorphic.cpp, 32]
+
+baseclass::operator=   (Public Function)
+   [ClassPolymorphic.h, 13]
+
+baseclass::operator=   (Public Function)
+   [ClassPolymorphic.h, 13]
+
+baseclass::~baseclass   (Public Function)
+   [ClassPolymorphic.h, 13]
+
+CAboutDlg   (Class)
+   [MFCApplication1Dlg.cpp, 18]
+
+CAboutDlg::CAboutDlg   (Public Function)
+   [MFCApplication1Dlg.cpp, 36]
+
+CAboutDlg::CAboutDlg   (Public Function)
+   [MFCApplication1Dlg.cpp, 18]
+
+CAboutDlg::CAboutDlg   (Public Function)
+   [MFCApplication1Dlg.cpp, 18]
+                                                                     Page 4
+                         Data Dictionary Summary Report
+===============================================================================
+
+CAboutDlg::DECLARE_MESSAGE_MAP   (Protected Function)
+   [MFCApplication1Dlg.cpp, 33]
+
+CAboutDlg::DoDataExchange   (Public Function)
+   [MFCApplication1Dlg.cpp, 40]
+
+classpolymorphicfactory   (Function)
+   [ClassPolymorphic.cpp, 4]
+
+CMFCApplication1App   (Class)
+   [MFCApplication1.h, 18]
+
+CMFCApplication1App::CMFCApplication1App   (Public Function)
+   [MFCApplication1.h, 21]
+
+CMFCApplication1App::DECLARE_MESSAGE_MAP   (Public Function)
+   [MFCApplication1.h, 29]
+
+CMFCApplication1App::InitInstance   (Public Function)
+   [MFCApplication1.cpp, 41]
+
+CMFCApplication1Dlg   (Class)
+   [MFCApplication1Dlg.h, 9]
+
+CMFCApplication1Dlg::CMFCApplication1Dlg   (Public Function)
+   [MFCApplication1Dlg.h, 13]
+
+CMFCApplication1Dlg::CMFCApplication1Dlg   (Public Function)
+
+CMFCApplication1Dlg::DECLARE_MESSAGE_MAP   (Protected Function)
+   [MFCApplication1Dlg.h, 33]
+
+CMFCApplication1Dlg::DoDataExchange   (Protected Virtual Function)
+   [MFCApplication1Dlg.h, 21]
+
+CMFCApplication1Dlg::OnInitDialog   (Protected Function)
+   [MFCApplication1Dlg.h, 29]
+
+CPPDLL_API   (Macro)
+   [CppDll.h, 8]
+
+CPPDLL_EXPORTS   (Macro)
+
+dlg   (Local Object)
+   [MFCApplication1.cpp, 74]
+
+DLL_PROCESS_ATTACH   (Macro)
+
+DLL_PROCESS_DETACH   (Macro)
+
+DLL_THREAD_ATTACH   (Macro)
+
+DLL_THREAD_DETACH   (Macro)
+                                                                     Page 5
+                         Data Dictionary Summary Report
+===============================================================================
+
+DllMain   (Function)
+   [dllmain.cpp, 4]
+
+DWORD   (Typedef)
+
+ExportedClassA   (Class)
+   [CppDll.h, 14]
+
+ExportedClassA::ExportedClassA   (Public Function)
+   [CppDll.cpp, 19]
+
+ExportedClassA::ExportedClassA   (Public Function)
+   [CppDll.h, 14]
+
+ExportedClassA::ExportedClassA   (Public Function)
+   [CppDll.h, 14]
+
+ExportedClassA::operator=   (Public Function)
+   [CppDll.h, 14]
+
+ExportedClassA::operator=   (Public Function)
+   [CppDll.h, 14]
+
+ExportedClassA::~ExportedClassA   (Public Function)
+   [CppDll.h, 14]
+
+externfunction1   (Function)
+   [ExternFunc.cpp, 4]
+
+externfunction2   (Function)
+   [ExternFunc.cpp, 9]
+
+fnCppDll   (Function)
+   [CppDll.cpp, 13]
+
+funcpointer1   (Function)
+   [CppConsoleApp.cpp, 44]
+
+funcpointer2   (Function)
+   [CppConsoleApp.cpp, 49]
+
+funcptr   (Local Object)
+   [CppConsoleApp.cpp, 117]
+
+grobalfunction1   (Function)
+   [GrobalFunc.cpp, 4]
+
+grobalfunction2   (Function)
+   [GrobalFunc.cpp, 9]
+
+heaplocalclass   (Local Object)
+   [CppConsoleApp.cpp, 124]
+
+HMODULE   (Typedef)
+                                                                     Page 6
+                         Data Dictionary Summary Report
+===============================================================================
+
+hModule   (Parameter)
+   [dllmain.cpp, 4]
+
+IDD_ABOUTBOX   (Macro)
+   [Resource.h, 7]
+
+IDD_MFCAPPLICATION1_DIALOG   (Macro)
+   [Resource.h, 9]
+
+IDM_ABOUTBOX   (Macro)
+   [Resource.h, 6]
+
+IDR_MAINFRAME   (Macro)
+   [Resource.h, 5]
+
+IDS_ABOUTBOX   (Macro)
+   [Resource.h, 8]
+
+InitCtrls   (Local Object)
+   [MFCApplication1.cpp, 46]
+
+inlinefunction1   (Function)
+   [InlineFunction.h, 4]
+
+inlinefunction2   (Function)
+   [InlineFunction.h, 9]
+
+local::localfunction1   (Function)
+   [CppConsoleApp.cpp, 22]
+
+local::localfunction2   (Function)
+   [CppConsoleApp.cpp, 27]
+
+localclass   (Class)
+   [CppConsoleApp.cpp, 58]
+
+localclass::localclass   (Public Function)
+   [CppConsoleApp.cpp, 58]
+
+localclass::localclass   (Public Function)
+   [CppConsoleApp.cpp, 58]
+
+localclass::localclass   (Public Function)
+   [CppConsoleApp.cpp, 58]
+
+localclass::memberfunc1_1   (Public Function)
+   [CppConsoleApp.cpp, 61]
+
+localclass::memberfunc1_2   (Public Function)
+   [CppConsoleApp.cpp, 71]
+
+localclass::memberfunc1_3   (Public Function)
+   [CppConsoleApp.cpp, 76]
+                                                                     Page 7
+                         Data Dictionary Summary Report
+===============================================================================
+
+localclass::memberfunc1_4   (Public Function)
+   [CppConsoleApp.cpp, 81]
+
+localclass::memberfunc2_1   (Public Function)
+   [CppConsoleApp.cpp, 66]
+
+localclass::staticmemberfunc1   (Public Static Function)
+   [CppConsoleApp.cpp, 86]
+
+localclass::staticmemberfunc2   (Public Static Function)
+   [CppConsoleApp.cpp, 91]
+
+localclass::~localclass   (Public Function)
+   [CppConsoleApp.cpp, 58]
+
+LocalClassA   (Class)
+   [LocalClassA.h, 2]
+
+localfunction1   (Function)
+   [CppConsoleApp.cpp, 34]
+
+localfunction2   (Function)
+   [CppConsoleApp.cpp, 39]
+
+localfunction2   (Function)
+   [CppConsoleApp.cpp, 16]
+
+lpReserved   (Parameter)
+   [dllmain.cpp, 6]
+
+LPVOID   (Typedef)
+
+main   (Function)
+   [CppConsoleApp.cpp, 99]
+
+nCppDll   (Global Object)
+   [CppDll.cpp, 10]
+
+new   (Macro)
+   [MFCApplication1.cpp, 11]
+
+new   (Macro)
+   [MFCApplication1Dlg.cpp, 12]
+
+nResponse   (Local Object)
+   [MFCApplication1.cpp, 76]
+
+obj1   (Local Object)
+   [CppConsoleApp.cpp, 139]
+
+obj2   (Local Object)
+   [CppConsoleApp.cpp, 141]
+
+operator new   (Function)
+                                                                     Page 8
+                         Data Dictionary Summary Report
+===============================================================================
+
+p   (Parameter)
+   [ClassPolymorphic.cpp, 4]
+
+PCH_H   (Macro)
+   [pch.h, 8]
+
+PCH_H   (Macro)
+   [pch.h, 8]
+
+pDX   (Unresolved Parameter)
+   [MFCApplication1Dlg.h, 21]
+
+pDX   (Local Object)
+   [MFCApplication1Dlg.cpp, 42]
+
+pDX   (Parameter)
+   [MFCApplication1Dlg.cpp, 40]
+
+pParent   (Unresolved Parameter)
+   [MFCApplication1Dlg.h, 13]
+
+pShellManager   (Local Object)
+   [MFCApplication1.cpp, 60]
+
+reflocalclass   (Local Object)
+   [CppConsoleApp.cpp, 132]
+
+stacklocalclass   (Local Object)
+   [CppConsoleApp.cpp, 129]
+
+staticfunction1   (Static Function)
+   [InlineFunction.h, 14]
+
+staticfunction2   (Static Function)
+   [InlineFunction.h, 19]
+
+std::cout   (Global Object)
+
+std::operator<<   (Function Template)
+
+std::unique_ptr   (Class Template)
+
+std::unique_ptr::operator->   (Public Const Function)
+
+std::unique_ptr::unique_ptr   (Public Function)
+
+std::unique_ptr::unique_ptr   (Explicit Public Function Template)
+
+std::unique_ptr::~unique_ptr   (Public Function)
+
+subclass1   (Class)
+   [ClassPolymorphic.h, 20]
+
+subclass1::memfunc1   (Public Virtual Function)
+   [ClassPolymorphic.cpp, 39]
+                                                                     Page 9
+                         Data Dictionary Summary Report
+===============================================================================
+
+subclass1::memfunc2   (Public Virtual Function)
+   [ClassPolymorphic.cpp, 44]
+
+subclass1::operator=   (Public Function)
+   [ClassPolymorphic.h, 20]
+
+subclass1::operator=   (Public Function)
+   [ClassPolymorphic.h, 20]
+
+subclass1::staticmemberfunc1   (Public Static Function)
+   [ClassPolymorphic.cpp, 49]
+
+subclass1::staticmemberfunc2   (Public Static Function)
+   [ClassPolymorphic.cpp, 54]
+
+subclass1::subclass1   (Public Function)
+   [ClassPolymorphic.h, 20]
+
+subclass1::subclass1   (Public Function)
+   [ClassPolymorphic.h, 20]
+
+subclass1::subclass1   (Public Function)
+   [ClassPolymorphic.h, 20]
+
+subclass1::~subclass1   (Public Function)
+   [ClassPolymorphic.h, 20]
+
+subclass2   (Class)
+   [ClassPolymorphic.h, 30]
+
+subclass2::memfunc1   (Public Virtual Function)
+   [ClassPolymorphic.cpp, 61]
+
+subclass2::memfunc2   (Public Virtual Function)
+   [ClassPolymorphic.cpp, 66]
+
+subclass2::operator=   (Public Function)
+   [ClassPolymorphic.h, 30]
+
+subclass2::operator=   (Public Function)
+   [ClassPolymorphic.h, 30]
+
+subclass2::~subclass2   (Public Function)
+   [ClassPolymorphic.h, 30]
+
+theApp   (Global Object)
+   [MFCApplication1.h, 32]
+
+TRUE   (Macro)
+
+ul_reason_for_call   (Parameter)
+   [dllmain.cpp, 5]
+
+VC_EXTRALEAN   (Macro)
+   [framework.h, 4]
+                                                                     Page 10
+                         Data Dictionary Summary Report
+===============================================================================
+
+WIN32_LEAN_AND_MEAN   (Macro)
+   [framework.h, 3]
+
+WINAPI   (Macro)
+                                                                     Page 11
+                              File Contents Report
+===============================================================================
+
+ClassPolymorphic.cpp
+  Global Functions
+    classpolymorphicfactory
+  Local Methods
+    subclass1::staticmemberfunc1
+    subclass1::staticmemberfunc2
+  Global Methods
+    abstructclass::memfunc1
+    abstructclass::memfunc2
+    baseclass::memfunc1
+    baseclass::memfunc2
+    subclass1::memfunc1
+    subclass1::memfunc2
+    subclass2::memfunc1
+    subclass2::memfunc2
+
+ClassPolymorphic.h
+  Classes
+    abstructclass
+    baseclass
+    subclass1
+    subclass2
+  Global Functions
+    classpolymorphicfactory
+  Local Methods
+    subclass1::staticmemberfunc1
+    subclass1::staticmemberfunc2
+  Global Methods
+    abstructclass::abstructclass
+    abstructclass::abstructclass
+    abstructclass::abstructclass
+    abstructclass::memfunc1
+    abstructclass::memfunc2
+    abstructclass::operator=
+    abstructclass::operator=
+    abstructclass::~abstructclass
+    baseclass::baseclass
+    baseclass::baseclass
+    baseclass::baseclass
+    baseclass::memfunc1
+    baseclass::memfunc2
+    baseclass::operator=
+    baseclass::operator=
+    baseclass::~baseclass
+    subclass1::memfunc1
+    subclass1::memfunc2
+    subclass1::operator=
+    subclass1::operator=
+    subclass1::subclass1
+    subclass1::subclass1
+    subclass1::subclass1
+    subclass1::~subclass1
+    subclass2::memfunc1
+    subclass2::memfunc2
+    subclass2::operator=
+    subclass2::operator=
+    subclass2::~subclass2
+
+CppConsoleApp.cpp
+  Classes
+    localclass
+  Global Variables
+    funcptr
+    heaplocalclass
+    obj1
+    obj2
+    reflocalclass
+    stacklocalclass
+  Global Functions
+    funcpointer1
+    funcpointer2
+    local::localfunction1
+    local::localfunction2
+    localfunction1
+    localfunction2
+    localfunction2
+    main
+  Local Methods
+    localclass::staticmemberfunc1
+    localclass::staticmemberfunc2
+  Global Methods
+    localclass::memberfunc1_1
+    localclass::memberfunc1_2
+    localclass::memberfunc1_3
+    localclass::memberfunc1_4
+    localclass::memberfunc2_1
+
+CppDll.cpp
+  Global Variables
+    nCppDll
+  Global Functions
+    fnCppDll
+  Global Methods
+    ExportedClassA::ExportedClassA
+
+CppDll.h
+  Classes
+    ExportedClassA
+  Global Variables
+    nCppDll
+  Global Functions
+    fnCppDll
+  Global Methods
+    ExportedClassA::ExportedClassA
+    ExportedClassA::ExportedClassA
+    ExportedClassA::ExportedClassA
+    ExportedClassA::operator=
+    ExportedClassA::operator=
+    ExportedClassA::~ExportedClassA
+
+dllmain.cpp
+  Global Functions
+    DllMain
+
+ExternFunc.cpp
+  Global Functions
+    externfunction1
+    externfunction2
+
+framework.h
+
+framework.h
+
+GrobalFunc.cpp
+  Global Functions
+    grobalfunction1
+    grobalfunction2
+
+GrobalFunc.h
+  Global Functions
+    grobalfunction1
+    grobalfunction2
+
+InlineFunction.h
+  Local Functions
+    staticfunction1
+    staticfunction2
+  Global Functions
+    inlinefunction1
+    inlinefunction2
+
+LocalClassA.cpp
+
+LocalClassA.h
+  Classes
+    LocalClassA
+
+MFCApplication1.cpp
+  Global Variables
+    dlg
+    InitCtrls
+    nResponse
+    pShellManager
+  Global Methods
+    CMFCApplication1App::InitInstance
+
+MFCApplication1.h
+  Classes
+    CMFCApplication1App
+  Global Variables
+    theApp
+  Global Methods
+    CMFCApplication1App::CMFCApplication1App
+    CMFCApplication1App::DECLARE_MESSAGE_MAP
+    CMFCApplication1App::InitInstance
+
+MFCApplication1Dlg.cpp
+  Classes
+    CAboutDlg
+  Global Variables
+    pDX
+  Global Methods
+    CAboutDlg::CAboutDlg
+    CAboutDlg::DoDataExchange
+
+MFCApplication1Dlg.h
+  Classes
+    CMFCApplication1Dlg
+  Global Methods
+    CMFCApplication1Dlg::CMFCApplication1Dlg
+    CMFCApplication1Dlg::DECLARE_MESSAGE_MAP
+    CMFCApplication1Dlg::DoDataExchange
+    CMFCApplication1Dlg::OnInitDialog
+
+pch.cpp
+
+pch.cpp
+
+pch.h
+
+pch.h
+
+Resource.h
+
+targetver.h
+                                                                     Page 12
+                      Program Unit Cross Reference Report
+===============================================================================
+
+abstructclass::abstructclass   (Public Function)
+  Declared as: void
+    Declare [ClassPolymorphic.h, 6]   abstructclass
+
+abstructclass::abstructclass   (Public Function)
+  Declared as: void
+    Declare [ClassPolymorphic.h, 6]   abstructclass
+
+abstructclass::abstructclass   (Public Function)
+  Declared as: void
+    Declare [ClassPolymorphic.h, 6]   abstructclass
+
+abstructclass::memfunc1   (Public Pure Virtual Function)
+  Declared as: void
+    Define [ClassPolymorphic.cpp, 15]   abstructclass
+    Declare [ClassPolymorphic.h, 9]   abstructclass
+    Virtual Call [CppConsoleApp.cpp, 140]   main
+    Virtual Call [CppConsoleApp.cpp, 142]   main
+
+abstructclass::memfunc2   (Public Pure Virtual Function)
+  Declared as: void
+    Define [ClassPolymorphic.cpp, 20]   abstructclass
+    Declare [ClassPolymorphic.h, 10]   abstructclass
+
+abstructclass::operator=   (Public Function)
+  Declared as: abstructclass &
+    Declare [ClassPolymorphic.h, 6]   abstructclass
+
+abstructclass::operator=   (Public Function)
+  Declared as: abstructclass &
+    Declare [ClassPolymorphic.h, 6]   abstructclass
+
+abstructclass::~abstructclass   (Public Function)
+  Declared as: void
+    Declare [ClassPolymorphic.h, 6]   abstructclass
+
+baseclass::baseclass   (Public Function)
+  Declared as: void
+    Call [ClassPolymorphic.cpp, 9]   classpolymorphicfactory
+    Declare [ClassPolymorphic.h, 13]   baseclass
+
+baseclass::baseclass   (Public Function)
+  Declared as: void
+    Declare [ClassPolymorphic.h, 13]   baseclass
+
+baseclass::baseclass   (Public Function)
+  Declared as: void
+    Declare [ClassPolymorphic.h, 13]   baseclass
+
+baseclass::memfunc1   (Public Virtual Function)
+  Declared as: void
+    Define [ClassPolymorphic.cpp, 27]   baseclass
+    Declare [ClassPolymorphic.h, 16]   baseclass
+    Virtual Call [CppConsoleApp.cpp, 140]   main
+    Virtual Call [CppConsoleApp.cpp, 142]   main
+                                                                     Page 13
+                      Program Unit Cross Reference Report
+===============================================================================
+
+baseclass::memfunc2   (Public Virtual Function)
+  Declared as: void
+    Define [ClassPolymorphic.cpp, 32]   baseclass
+    Declare [ClassPolymorphic.h, 17]   baseclass
+
+baseclass::operator=   (Public Function)
+  Declared as: baseclass &
+    Declare [ClassPolymorphic.h, 13]   baseclass
+
+baseclass::operator=   (Public Function)
+  Declared as: baseclass &
+    Declare [ClassPolymorphic.h, 13]   baseclass
+
+baseclass::~baseclass   (Public Function)
+  Declared as: void
+    Declare [ClassPolymorphic.h, 13]   baseclass
+
+CAboutDlg::CAboutDlg   (Public Function)
+  Declared as: void
+    Declare [MFCApplication1Dlg.cpp, 21]   CAboutDlg
+    Define [MFCApplication1Dlg.cpp, 36]   CAboutDlg
+
+CAboutDlg::CAboutDlg   (Public Function)
+  Declared as: void
+    Declare [MFCApplication1Dlg.cpp, 18]   CAboutDlg
+
+CAboutDlg::CAboutDlg   (Public Function)
+  Declared as: void
+    Declare [MFCApplication1Dlg.cpp, 18]   CAboutDlg
+
+CAboutDlg::DECLARE_MESSAGE_MAP   (Protected Function)
+  Declared as: int
+    Declare [MFCApplication1Dlg.cpp, 33]   CAboutDlg
+
+CAboutDlg::DoDataExchange   (Public Function)
+  Declared as: void
+    Define [MFCApplication1Dlg.cpp, 40]   CAboutDlg
+    Declare [MFCApplication1Dlg.cpp, 29]   CAboutDlg
+
+classpolymorphicfactory   (Function)
+  Declared as: std::unique_ptr<abstructclass>
+    Define [ClassPolymorphic.cpp, 4]   ClassPolymorphic.cpp
+    Declare [ClassPolymorphic.h, 37]   ClassPolymorphic.h
+    Call [CppConsoleApp.cpp, 139]    main
+    Call [CppConsoleApp.cpp, 141]    main
+
+CMFCApplication1App::CMFCApplication1App   (Public Function)
+  Declared as: void
+    Declare [MFCApplication1.h, 21]   CMFCApplication1App
+
+CMFCApplication1App::DECLARE_MESSAGE_MAP   (Public Function)
+  Declared as: int
+    Declare [MFCApplication1.h, 29]   CMFCApplication1App
+                                                                     Page 14
+                      Program Unit Cross Reference Report
+===============================================================================
+
+CMFCApplication1App::InitInstance   (Public Function)
+  Declared as: int
+    Define [MFCApplication1.cpp, 41]   CMFCApplication1App
+    Declare [MFCApplication1.h, 25]   CMFCApplication1App
+
+CMFCApplication1Dlg::CMFCApplication1Dlg   (Public Function)
+  Declared as: void
+    Declare [MFCApplication1Dlg.h, 13]   CMFCApplication1Dlg
+
+CMFCApplication1Dlg::CMFCApplication1Dlg   (Public Function)
+  Declared as: void
+    Call [MFCApplication1.cpp, 74]   CMFCApplication1App::InitInstance
+
+CMFCApplication1Dlg::DECLARE_MESSAGE_MAP   (Protected Function)
+  Declared as: int
+    Declare [MFCApplication1Dlg.h, 33]   CMFCApplication1Dlg
+
+CMFCApplication1Dlg::DoDataExchange   (Protected Virtual Function)
+  Declared as: void
+    Declare [MFCApplication1Dlg.h, 21]   CMFCApplication1Dlg
+
+CMFCApplication1Dlg::OnInitDialog   (Protected Function)
+  Declared as: int
+    Declare [MFCApplication1Dlg.h, 29]   CMFCApplication1Dlg
+
+DllMain   (Function)
+  Declared as: BOOL
+    Define [dllmain.cpp, 4]          dllmain.cpp
+
+ExportedClassA::ExportedClassA   (Public Function)
+  Declared as: void
+    Define [CppDll.cpp, 19]          ExportedClassA
+    Declare [CppDll.h, 16]           ExportedClassA
+
+ExportedClassA::ExportedClassA   (Public Function)
+  Declared as: void
+    Declare [CppDll.h, 14]           ExportedClassA
+
+ExportedClassA::ExportedClassA   (Public Function)
+  Declared as: void
+    Declare [CppDll.h, 14]           ExportedClassA
+
+ExportedClassA::operator=   (Public Function)
+  Declared as: ExportedClassA &
+    Declare [CppDll.h, 14]           ExportedClassA
+
+ExportedClassA::operator=   (Public Function)
+  Declared as: ExportedClassA &
+    Declare [CppDll.h, 14]           ExportedClassA
+
+ExportedClassA::~ExportedClassA   (Public Function)
+  Declared as: void
+    Declare [CppDll.h, 14]           ExportedClassA
+                                                                     Page 15
+                      Program Unit Cross Reference Report
+===============================================================================
+
+externfunction1   (Function)
+  Declared as: void
+    Define [ExternFunc.cpp, 4]       ExternFunc.cpp
+    Declare [CppConsoleApp.cpp, 55]   CppConsoleApp.cpp
+    Call [CppConsoleApp.cpp, 108]    main
+
+externfunction2   (Function)
+  Declared as: void
+    Define [ExternFunc.cpp, 9]       ExternFunc.cpp
+
+fnCppDll   (Function)
+  Declared as: int
+    Define [CppDll.cpp, 13]          CppDll.cpp
+    Declare [CppDll.h, 22]           CppDll.h
+
+funcpointer1   (Function)
+  Declared as: void
+    Define [CppConsoleApp.cpp, 44]   [unnamed]
+    Pointer [CppConsoleApp.cpp, 117]   main
+    Call [CppConsoleApp.cpp, 117]    funcptr
+
+funcpointer2   (Function)
+  Declared as: void
+    Define [CppConsoleApp.cpp, 49]   [unnamed]
+
+grobalfunction1   (Function)
+  Declared as: void
+    Define [GrobalFunc.cpp, 4]       GrobalFunc.cpp
+    Call [CppConsoleApp.cpp, 110]    main
+    Declare [GrobalFunc.h, 3]        GrobalFunc.h
+
+grobalfunction2   (Function)
+  Declared as: void
+    Define [GrobalFunc.cpp, 9]       GrobalFunc.cpp
+    Declare [GrobalFunc.h, 5]        GrobalFunc.h
+
+inlinefunction1   (Function)
+  Declared as: void
+    Define [InlineFunction.h, 4]     InlineFunction.h
+    Call [CppConsoleApp.cpp, 114]    main
+
+inlinefunction2   (Function)
+  Declared as: void
+    Define [InlineFunction.h, 9]     InlineFunction.h
+
+local::localfunction1   (Function)
+  Declared as: void
+    Define [CppConsoleApp.cpp, 22]   local
+    Call [CppConsoleApp.cpp, 106]    main
+
+local::localfunction2   (Function)
+  Declared as: void
+    Define [CppConsoleApp.cpp, 27]   local
+                                                                     Page 16
+                      Program Unit Cross Reference Report
+===============================================================================
+
+localclass::localclass   (Public Function)
+  Declared as: void
+    Declare [CppConsoleApp.cpp, 58]   localclass
+    Call [CppConsoleApp.cpp, 121]    main
+    Call [CppConsoleApp.cpp, 124]    main
+    Call [CppConsoleApp.cpp, 129]    main
+
+localclass::localclass   (Public Function)
+  Declared as: void
+    Declare [CppConsoleApp.cpp, 58]   localclass
+
+localclass::localclass   (Public Function)
+  Declared as: void
+    Declare [CppConsoleApp.cpp, 58]   localclass
+
+localclass::memberfunc1_1   (Public Function)
+  Declared as: void
+    Define [CppConsoleApp.cpp, 61]   localclass
+    Call [CppConsoleApp.cpp, 121]    main
+
+localclass::memberfunc1_2   (Public Function)
+  Declared as: void
+    Define [CppConsoleApp.cpp, 71]   localclass
+    Call [CppConsoleApp.cpp, 125]    main
+
+localclass::memberfunc1_3   (Public Function)
+  Declared as: void
+    Define [CppConsoleApp.cpp, 76]   localclass
+    Call [CppConsoleApp.cpp, 130]    main
+
+localclass::memberfunc1_4   (Public Function)
+  Declared as: void
+    Define [CppConsoleApp.cpp, 81]   localclass
+    Call [CppConsoleApp.cpp, 133]    main
+
+localclass::memberfunc2_1   (Public Function)
+  Declared as: void
+    Define [CppConsoleApp.cpp, 66]   localclass
+
+localclass::staticmemberfunc1   (Public Static Function)
+  Declared as: void
+    Define [CppConsoleApp.cpp, 86]   localclass
+    Call [CppConsoleApp.cpp, 136]    main
+
+localclass::staticmemberfunc2   (Public Static Function)
+  Declared as: void
+    Define [CppConsoleApp.cpp, 91]   localclass
+
+localclass::~localclass   (Public Function)
+  Declared as: void
+    Declare [CppConsoleApp.cpp, 58]   localclass
+    Call [CppConsoleApp.cpp, 134]    main
+
+localfunction1   (Function)
+  Declared as: void
+                                                                     Page 17
+                      Program Unit Cross Reference Report
+===============================================================================
+    Define [CppConsoleApp.cpp, 34]   [unnamed]
+    Call [CppConsoleApp.cpp, 103]    main
+    Call [CppConsoleApp.cpp, 104]    main
+
+localfunction2   (Function)
+  Declared as: void
+    Define [CppConsoleApp.cpp, 39]   [unnamed]
+
+localfunction2   (Function)
+  Declared as: void
+    Define [CppConsoleApp.cpp, 16]   CppConsoleApp.cpp
+
+main   (Function)
+  Declared as: int
+    Define [CppConsoleApp.cpp, 99]   CppConsoleApp.cpp
+
+operator new   (Function)
+  Declared as: void *
+    Call [ClassPolymorphic.cpp, 9]   classpolymorphicfactory
+    Call [ClassPolymorphic.cpp, 11]   classpolymorphicfactory
+    Call [CppConsoleApp.cpp, 124]    main
+
+staticfunction1   (Static Function)
+  Declared as: void
+    Define [InlineFunction.h, 14]    InlineFunction.h
+    Call [CppConsoleApp.cpp, 112]    main
+
+staticfunction2   (Static Function)
+  Declared as: void
+    Define [InlineFunction.h, 19]    InlineFunction.h
+
+std::operator<<   (Function Template)
+  Declared as: basic_ostream<char, _Traits> &
+    Call [ExternFunc.cpp, 6]         externfunction1
+    Call [ExternFunc.cpp, 6]         externfunction1
+    Call [ExternFunc.cpp, 11]        externfunction2
+    Call [ExternFunc.cpp, 11]        externfunction2
+    Call [InlineFunction.h, 6]       inlinefunction1
+    Call [InlineFunction.h, 6]       inlinefunction1
+    Call [InlineFunction.h, 11]      inlinefunction2
+    Call [InlineFunction.h, 11]      inlinefunction2
+    Call [InlineFunction.h, 16]      staticfunction1
+    Call [InlineFunction.h, 16]      staticfunction1
+    Call [InlineFunction.h, 21]      staticfunction2
+    Call [InlineFunction.h, 21]      staticfunction2
+    Call [ClassPolymorphic.cpp, 17]   abstructclass::memfunc1
+    Call [ClassPolymorphic.cpp, 17]   abstructclass::memfunc1
+    Call [ClassPolymorphic.cpp, 22]   abstructclass::memfunc2
+    Call [ClassPolymorphic.cpp, 22]   abstructclass::memfunc2
+    Call [ClassPolymorphic.cpp, 29]   baseclass::memfunc1
+    Call [ClassPolymorphic.cpp, 29]   baseclass::memfunc1
+    Call [ClassPolymorphic.cpp, 34]   baseclass::memfunc2
+    Call [ClassPolymorphic.cpp, 34]   baseclass::memfunc2
+    Call [ClassPolymorphic.cpp, 41]   subclass1::memfunc1
+    Call [ClassPolymorphic.cpp, 41]   subclass1::memfunc1
+    Call [ClassPolymorphic.cpp, 46]   subclass1::memfunc2
+                                                                     Page 18
+                      Program Unit Cross Reference Report
+===============================================================================
+    Call [ClassPolymorphic.cpp, 46]   subclass1::memfunc2
+    Call [ClassPolymorphic.cpp, 51]   subclass1::staticmemberfunc1
+    Call [ClassPolymorphic.cpp, 51]   subclass1::staticmemberfunc1
+    Call [ClassPolymorphic.cpp, 56]   subclass1::staticmemberfunc2
+    Call [ClassPolymorphic.cpp, 56]   subclass1::staticmemberfunc2
+    Call [ClassPolymorphic.cpp, 63]   subclass2::memfunc1
+    Call [ClassPolymorphic.cpp, 63]   subclass2::memfunc1
+    Call [ClassPolymorphic.cpp, 68]   subclass2::memfunc2
+    Call [ClassPolymorphic.cpp, 68]   subclass2::memfunc2
+    Call [GrobalFunc.cpp, 6]         grobalfunction1
+    Call [GrobalFunc.cpp, 6]         grobalfunction1
+    Call [GrobalFunc.cpp, 11]        grobalfunction2
+    Call [GrobalFunc.cpp, 11]        grobalfunction2
+    Call [CppConsoleApp.cpp, 46]     funcpointer1
+    Call [CppConsoleApp.cpp, 46]     funcpointer1
+    Call [CppConsoleApp.cpp, 51]     funcpointer2
+    Call [CppConsoleApp.cpp, 51]     funcpointer2
+    Call [CppConsoleApp.cpp, 63]     localclass::memberfunc1_1
+    Call [CppConsoleApp.cpp, 63]     localclass::memberfunc1_1
+    Call [CppConsoleApp.cpp, 73]     localclass::memberfunc1_2
+    Call [CppConsoleApp.cpp, 73]     localclass::memberfunc1_2
+    Call [CppConsoleApp.cpp, 78]     localclass::memberfunc1_3
+    Call [CppConsoleApp.cpp, 78]     localclass::memberfunc1_3
+    Call [CppConsoleApp.cpp, 83]     localclass::memberfunc1_4
+    Call [CppConsoleApp.cpp, 83]     localclass::memberfunc1_4
+    Call [CppConsoleApp.cpp, 68]     localclass::memberfunc2_1
+    Call [CppConsoleApp.cpp, 68]     localclass::memberfunc2_1
+    Call [CppConsoleApp.cpp, 88]     localclass::staticmemberfunc1
+    Call [CppConsoleApp.cpp, 88]     localclass::staticmemberfunc1
+    Call [CppConsoleApp.cpp, 93]     localclass::staticmemberfunc2
+    Call [CppConsoleApp.cpp, 93]     localclass::staticmemberfunc2
+    Call [CppConsoleApp.cpp, 36]     localfunction1
+    Call [CppConsoleApp.cpp, 36]     localfunction1
+    Call [CppConsoleApp.cpp, 41]     localfunction2
+    Call [CppConsoleApp.cpp, 41]     localfunction2
+    Call [CppConsoleApp.cpp, 24]     local::localfunction1
+    Call [CppConsoleApp.cpp, 24]     local::localfunction1
+    Call [CppConsoleApp.cpp, 29]     local::localfunction2
+    Call [CppConsoleApp.cpp, 29]     local::localfunction2
+    Call [CppConsoleApp.cpp, 18]     localfunction2
+    Call [CppConsoleApp.cpp, 18]     localfunction2
+    Call [CppConsoleApp.cpp, 101]    main
+
+std::unique_ptr::operator->   (Public Const Function)
+  Declared as: std::unique_ptr::pointer
+    Call [CppConsoleApp.cpp, 125]    main
+    Call [CppConsoleApp.cpp, 140]    main
+    Call [CppConsoleApp.cpp, 142]    main
+
+std::unique_ptr::unique_ptr   (Public Function)
+  Declared as: void
+    Call [ClassPolymorphic.cpp, 9]   classpolymorphicfactory
+    Call [ClassPolymorphic.cpp, 11]   classpolymorphicfactory
+    Call [CppConsoleApp.cpp, 139]    main
+    Call [CppConsoleApp.cpp, 141]    main
+                                                                     Page 19
+                      Program Unit Cross Reference Report
+===============================================================================
+
+std::unique_ptr::unique_ptr   (Explicit Public Function Template)
+  Declared as: void
+    Call [ClassPolymorphic.cpp, 9]   classpolymorphicfactory
+    Call [ClassPolymorphic.cpp, 11]   classpolymorphicfactory
+    Call [CppConsoleApp.cpp, 124]    main
+
+std::unique_ptr::~unique_ptr   (Public Function)
+  Declared as: void
+    Call [CppConsoleApp.cpp, 126]    main
+    Call [CppConsoleApp.cpp, 143]    main
+    Call [CppConsoleApp.cpp, 143]    main
+
+subclass1::memfunc1   (Public Virtual Function)
+  Declared as: void
+    Define [ClassPolymorphic.cpp, 39]   subclass1
+    Declare [ClassPolymorphic.h, 23]   subclass1
+
+subclass1::memfunc2   (Public Virtual Function)
+  Declared as: void
+    Define [ClassPolymorphic.cpp, 44]   subclass1
+    Declare [ClassPolymorphic.h, 24]   subclass1
+
+subclass1::operator=   (Public Function)
+  Declared as: subclass1 &
+    Declare [ClassPolymorphic.h, 20]   subclass1
+
+subclass1::operator=   (Public Function)
+  Declared as: subclass1 &
+    Declare [ClassPolymorphic.h, 20]   subclass1
+
+subclass1::staticmemberfunc1   (Public Static Function)
+  Declared as: void
+    Define [ClassPolymorphic.cpp, 49]   subclass1
+    Declare [ClassPolymorphic.h, 26]   subclass1
+    Call [CppConsoleApp.cpp, 145]    main
+
+subclass1::staticmemberfunc2   (Public Static Function)
+  Declared as: void
+    Define [ClassPolymorphic.cpp, 54]   subclass1
+    Declare [ClassPolymorphic.h, 27]   subclass1
+
+subclass1::subclass1   (Public Function)
+  Declared as: void
+    Call [ClassPolymorphic.cpp, 11]   classpolymorphicfactory
+    Declare [ClassPolymorphic.h, 20]   subclass1
+
+subclass1::subclass1   (Public Function)
+  Declared as: void
+    Declare [ClassPolymorphic.h, 20]   subclass1
+
+subclass1::subclass1   (Public Function)
+  Declared as: void
+    Declare [ClassPolymorphic.h, 20]   subclass1
+                                                                     Page 20
+                      Program Unit Cross Reference Report
+===============================================================================
+
+subclass1::~subclass1   (Public Function)
+  Declared as: void
+    Declare [ClassPolymorphic.h, 20]   subclass1
+
+subclass2::memfunc1   (Public Virtual Function)
+  Declared as: void
+    Define [ClassPolymorphic.cpp, 61]   subclass2
+    Declare [ClassPolymorphic.h, 33]   subclass2
+
+subclass2::memfunc2   (Public Virtual Function)
+  Declared as: void
+    Define [ClassPolymorphic.cpp, 66]   subclass2
+    Declare [ClassPolymorphic.h, 34]   subclass2
+
+subclass2::operator=   (Public Function)
+  Declared as: subclass2 &
+    Declare [ClassPolymorphic.h, 30]   subclass2
+
+subclass2::operator=   (Public Function)
+  Declared as: subclass2 &
+    Declare [ClassPolymorphic.h, 30]   subclass2
+
+subclass2::~subclass2   (Public Function)
+  Declared as: void
+    Declare [ClassPolymorphic.h, 30]   subclass2
+                                                                     Page 21
+                         Object Cross Reference Report
+===============================================================================
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const ExportedClassA &
+    Declare [CppDll.h, 14]           ExportedClassA::ExportedClassA
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: ExportedClassA &&
+    Declare [CppDll.h, 14]           ExportedClassA::ExportedClassA
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const ExportedClassA &
+    Declare [CppDll.h, 14]           ExportedClassA::operator=
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: ExportedClassA &&
+    Declare [CppDll.h, 14]           ExportedClassA::operator=
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const CAboutDlg &
+    Declare [MFCApplication1Dlg.cpp, 18]   CAboutDlg::CAboutDlg
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: CAboutDlg &&
+    Declare [MFCApplication1Dlg.cpp, 18]   CAboutDlg::CAboutDlg
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const abstructclass &
+    Declare [ClassPolymorphic.h, 6]   abstructclass::abstructclass
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: abstructclass &&
+    Declare [ClassPolymorphic.h, 6]   abstructclass::abstructclass
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const abstructclass &
+    Declare [ClassPolymorphic.h, 6]   abstructclass::operator=
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: abstructclass &&
+    Declare [ClassPolymorphic.h, 6]   abstructclass::operator=
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const baseclass &
+    Declare [ClassPolymorphic.h, 13]   baseclass::baseclass
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: baseclass &&
+    Declare [ClassPolymorphic.h, 13]   baseclass::baseclass
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const baseclass &
+    Declare [ClassPolymorphic.h, 13]   baseclass::operator=
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: baseclass &&
+    Declare [ClassPolymorphic.h, 13]   baseclass::operator=
+                                                                     Page 22
+                         Object Cross Reference Report
+===============================================================================
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const subclass1 &
+    Declare [ClassPolymorphic.h, 20]   subclass1::operator=
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: subclass1 &&
+    Declare [ClassPolymorphic.h, 20]   subclass1::operator=
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const subclass1 &
+    Declare [ClassPolymorphic.h, 20]   subclass1::subclass1
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: subclass1 &&
+    Declare [ClassPolymorphic.h, 20]   subclass1::subclass1
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const subclass2 &
+    Declare [ClassPolymorphic.h, 30]   subclass2::operator=
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: subclass2 &&
+    Declare [ClassPolymorphic.h, 30]   subclass2::operator=
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const (anonymous namespace)::localclass &
+    Declare [CppConsoleApp.cpp, 58]   localclass::localclass
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: (anonymous namespace)::localclass &&
+    Declare [CppConsoleApp.cpp, 58]   localclass::localclass
+
+dlg   (Local Object)
+  Declared as: CMFCApplication1Dlg=
+    Define [MFCApplication1.cpp, 74]   CMFCApplication1App::InitInstance
+    Init [MFCApplication1.cpp, 74]   CMFCApplication1App::InitInstance
+
+funcptr   (Local Object)
+  Declared as: void (*)()=funcpointer1
+    Define [CppConsoleApp.cpp, 117]   main
+    Init [CppConsoleApp.cpp, 117]    main
+    Deref Call [CppConsoleApp.cpp, 118]   main
+
+heaplocalclass   (Local Object)
+  Declared as: std::unique_ptr<localclass>=new (anonymous namespace)::localc...
+    Define [CppConsoleApp.cpp, 124]   main
+    Init [CppConsoleApp.cpp, 124]    main
+    Use [CppConsoleApp.cpp, 125]     main
+
+hModule   (Parameter)
+  Declared as: HMODULE
+    Define [dllmain.cpp, 4]          DllMain
+
+InitCtrls   (Local Object)
+  Declared as: int
+                                                                     Page 23
+                         Object Cross Reference Report
+===============================================================================
+    Define [MFCApplication1.cpp, 46]   CMFCApplication1App::InitInstance
+
+lpReserved   (Parameter)
+  Declared as: LPVOID
+    Define [dllmain.cpp, 6]          DllMain
+
+nCppDll   (Global Object)
+  Declared as: int=0
+    Define [CppDll.cpp, 10]          CppDll.cpp
+    Init [CppDll.cpp, 10]            CppDll.cpp
+    Declare [CppDll.h, 20]           CppDll.h
+
+nResponse   (Local Object)
+  Declared as: int
+    Define [MFCApplication1.cpp, 76]   CMFCApplication1App::InitInstance
+
+obj1   (Local Object)
+  Declared as: std::unique_ptr<abstructclass>=classpolymorphicfactory(0)
+    Define [CppConsoleApp.cpp, 139]   main
+    Init [CppConsoleApp.cpp, 139]    main
+    Use [CppConsoleApp.cpp, 140]     main
+
+obj2   (Local Object)
+  Declared as: std::unique_ptr<abstructclass>=classpolymorphicfactory(1)
+    Define [CppConsoleApp.cpp, 141]   main
+    Init [CppConsoleApp.cpp, 141]    main
+    Use [CppConsoleApp.cpp, 142]     main
+
+p   (Parameter)
+  Declared as: int
+    Define [ClassPolymorphic.cpp, 4]   classpolymorphicfactory
+    Use [ClassPolymorphic.cpp, 6]    classpolymorphicfactory
+    Declare [ClassPolymorphic.h, 37]   classpolymorphicfactory
+
+pDX   (Unresolved Parameter)
+  Declared as: int *
+    Declare [MFCApplication1Dlg.h, 21]   CMFCApplication1Dlg::DoDataExchange
+
+pDX   (Local Object)
+  Declared as: int
+    Define [MFCApplication1Dlg.cpp, 42]   CAboutDlg::DoDataExchange
+
+pDX   (Parameter)
+  Declared as: int *
+    Define [MFCApplication1Dlg.cpp, 40]   CAboutDlg::DoDataExchange
+    Declare [MFCApplication1Dlg.cpp, 29]   CAboutDlg::DoDataExchange
+
+pParent   (Unresolved Parameter)
+  Declared as: int *
+    Declare [MFCApplication1Dlg.h, 13]   CMFCApplication1Dlg::CMFCApplication1Dlg
+
+pShellManager   (Local Object)
+  Declared as: int *
+    Define [MFCApplication1.cpp, 60]   CMFCApplication1App::InitInstance
+                                                                     Page 24
+                         Object Cross Reference Report
+===============================================================================
+
+reflocalclass   (Local Object)
+  Declared as: (anonymous namespace)::localclass &=stacklocalclass
+    Define [CppConsoleApp.cpp, 132]   main
+    Init [CppConsoleApp.cpp, 132]    main
+    Use [CppConsoleApp.cpp, 133]     main
+
+stacklocalclass   (Local Object)
+  Declared as: (anonymous namespace)::localclass=
+    Define [CppConsoleApp.cpp, 129]   main
+    Init [CppConsoleApp.cpp, 129]    main
+    Use [CppConsoleApp.cpp, 130]     main
+    Use [CppConsoleApp.cpp, 132]     main
+
+std::cout   (Global Object)
+  Declared as: std::ostream
+    Use [ExternFunc.cpp, 6]          externfunction1
+    Use [ExternFunc.cpp, 11]         externfunction2
+    Use [InlineFunction.h, 6]        inlinefunction1
+    Use [InlineFunction.h, 11]       inlinefunction2
+    Use [InlineFunction.h, 16]       staticfunction1
+    Use [InlineFunction.h, 21]       staticfunction2
+    Use [ClassPolymorphic.cpp, 17]   abstructclass::memfunc1
+    Use [ClassPolymorphic.cpp, 22]   abstructclass::memfunc2
+    Use [ClassPolymorphic.cpp, 29]   baseclass::memfunc1
+    Use [ClassPolymorphic.cpp, 34]   baseclass::memfunc2
+    Use [ClassPolymorphic.cpp, 41]   subclass1::memfunc1
+    Use [ClassPolymorphic.cpp, 46]   subclass1::memfunc2
+    Use [ClassPolymorphic.cpp, 51]   subclass1::staticmemberfunc1
+    Use [ClassPolymorphic.cpp, 56]   subclass1::staticmemberfunc2
+    Use [ClassPolymorphic.cpp, 63]   subclass2::memfunc1
+    Use [ClassPolymorphic.cpp, 68]   subclass2::memfunc2
+    Use [GrobalFunc.cpp, 6]          grobalfunction1
+    Use [GrobalFunc.cpp, 11]         grobalfunction2
+    Use [CppConsoleApp.cpp, 46]      funcpointer1
+    Use [CppConsoleApp.cpp, 51]      funcpointer2
+    Use [CppConsoleApp.cpp, 63]      localclass::memberfunc1_1
+    Use [CppConsoleApp.cpp, 73]      localclass::memberfunc1_2
+    Use [CppConsoleApp.cpp, 78]      localclass::memberfunc1_3
+    Use [CppConsoleApp.cpp, 83]      localclass::memberfunc1_4
+    Use [CppConsoleApp.cpp, 68]      localclass::memberfunc2_1
+    Use [CppConsoleApp.cpp, 88]      localclass::staticmemberfunc1
+    Use [CppConsoleApp.cpp, 93]      localclass::staticmemberfunc2
+    Use [CppConsoleApp.cpp, 36]      localfunction1
+    Use [CppConsoleApp.cpp, 41]      localfunction2
+    Use [CppConsoleApp.cpp, 24]      local::localfunction1
+    Use [CppConsoleApp.cpp, 29]      local::localfunction2
+    Use [CppConsoleApp.cpp, 18]      localfunction2
+    Use [CppConsoleApp.cpp, 101]     main
+
+theApp   (Global Object)
+  Declared as: CMFCApplication1App
+    Declare [MFCApplication1.h, 32]   MFCApplication1.h
+
+ul_reason_for_call   (Parameter)
+  Declared as: DWORD
+                                                                     Page 25
+                         Object Cross Reference Report
+===============================================================================
+    Define [dllmain.cpp, 5]          DllMain
+    Use [dllmain.cpp, 9]             DllMain
+                                                                     Page 26
+                          Type Cross Reference Report
+===============================================================================
+
+abstructclass   (Abstract Class)
+    Define [ClassPolymorphic.h, 6]   ClassPolymorphic.h
+    Public [ClassPolymorphic.h, 13]   baseclass
+    Type [ClassPolymorphic.h, 37]    classpolymorphicfactory
+    Type [ClassPolymorphic.cpp, 4]   classpolymorphicfactory
+    Type [ClassPolymorphic.cpp, 9]   classpolymorphicfactory
+    Type [ClassPolymorphic.cpp, 11]   classpolymorphicfactory
+    Type [CppConsoleApp.cpp, 139]    obj1
+    Type [CppConsoleApp.cpp, 141]    obj2
+
+baseclass   (Class)
+    Define [ClassPolymorphic.h, 13]   ClassPolymorphic.h
+    Public [ClassPolymorphic.h, 20]   subclass1
+    Public [ClassPolymorphic.h, 30]   subclass2
+
+CAboutDlg   (Class)
+    Define [MFCApplication1Dlg.cpp, 18]   MFCApplication1Dlg.cpp
+
+CMFCApplication1App   (Class)
+    Define [MFCApplication1.h, 18]   MFCApplication1.h
+    Type [MFCApplication1.h, 32]     theApp
+
+CMFCApplication1Dlg   (Class)
+    Define [MFCApplication1Dlg.h, 9]   MFCApplication1Dlg.h
+    Type [MFCApplication1.cpp, 74]   dlg
+
+DWORD   (Typedef)
+  Declared as: unsigned long
+    Type [dllmain.cpp, 5]            ul_reason_for_call
+
+ExportedClassA   (Class)
+    Define [CppDll.h, 14]            CppDll.h
+
+HMODULE   (Typedef)
+  Declared as: HINSTANCE
+    Type [dllmain.cpp, 4]            hModule
+
+localclass   (Class)
+    Define [CppConsoleApp.cpp, 58]   [unnamed]
+    Type [CppConsoleApp.cpp, 124]    heaplocalclass
+    Type [CppConsoleApp.cpp, 132]    reflocalclass
+    Type [CppConsoleApp.cpp, 129]    stacklocalclass
+
+LocalClassA   (Class)
+    Define [LocalClassA.h, 2]        LocalClassA.h
+
+LPVOID   (Typedef)
+  Declared as: void *
+    Type [dllmain.cpp, 6]            lpReserved
+
+std::unique_ptr   (Class Template)
+    Type [ClassPolymorphic.cpp, 4]   classpolymorphicfactory
+    Cast [ClassPolymorphic.cpp, 9]   classpolymorphicfactory
+    Cast [ClassPolymorphic.cpp, 11]   classpolymorphicfactory
+    Type [ClassPolymorphic.h, 37]    classpolymorphicfactory
+    Type [CppConsoleApp.cpp, 124]    heaplocalclass
+    Type [CppConsoleApp.cpp, 139]    obj1
+    Type [CppConsoleApp.cpp, 141]    obj2
+
+subclass1   (Class)
+    Define [ClassPolymorphic.h, 20]   ClassPolymorphic.h
+
+subclass2   (Class)
+    Define [ClassPolymorphic.h, 30]   ClassPolymorphic.h
+                                                                     Page 27
+                          Macro Cross Reference Report
+===============================================================================
+
+__AFXWIN_H__
+    Use [MFCApplication1.h, 7]       MFCApplication1.h
+
+_AFX_ALL_WARNINGS
+    Define [framework.h, 12]         framework.h
+
+_AFX_NO_AFXCMN_SUPPORT
+    Use [framework.h, 25]            framework.h
+
+_AFX_NO_MFC_CONTROLS_IN_DIALOGS
+    Use [MFCApplication1.cpp, 99]    CMFCApplication1App::InitInstance
+
+_AFX_NO_OLE_SUPPORT
+    Use [framework.h, 22]            framework.h
+
+_AFXDLL
+    Use [MFCApplication1.cpp, 99]    CMFCApplication1App::InitInstance
+
+_ATL_CSTRING_EXPLICIT_CONSTRUCTORS
+    Define [framework.h, 9]          framework.h
+
+_DEBUG
+    Use [MFCApplication1.cpp, 10]    MFCApplication1.cpp
+    Use [MFCApplication1Dlg.cpp, 11]   MFCApplication1Dlg.cpp
+
+_M_IX86
+    Use [framework.h, 40]            framework.h
+
+_M_X64
+  Declared as: 100
+    Use [framework.h, 42]            framework.h
+
+_UNICODE
+    Use [framework.h, 39]            framework.h
+
+AFX_DESIGN_TIME
+    Use [MFCApplication1Dlg.h, 16]   CMFCApplication1Dlg
+
+AFX_DESIGN_TIME
+    Use [MFCApplication1Dlg.cpp, 24]   CAboutDlg
+
+APIENTRY
+  Declared as: WINAPI
+    Use [dllmain.cpp, 4]             DllMain
+
+APSTUDIO_INVOKED
+    Use [Resource.h, 13]             Resource.h
+
+CPPDLL_API
+  Declared as: __declspec(dllexport)
+    Define [CppDll.h, 8]             CppDll.h
+    Use [CppDll.h, 20]               CppDll.h
+    Use [CppDll.h, 22]               CppDll.h
+    Use [CppDll.h, 14]               ExportedClassA
+    Use [CppDll.cpp, 10]             fnCppDll
+                                                                     Page 28
+                          Macro Cross Reference Report
+===============================================================================
+    Use [CppDll.cpp, 13]             fnCppDll
+
+CPPDLL_EXPORTS
+    Use [CppDll.h, 7]                CppDll.h
+
+DLL_PROCESS_ATTACH
+  Declared as: 1
+    Use [dllmain.cpp, 11]            DllMain
+
+DLL_PROCESS_DETACH
+  Declared as: 0
+    Use [dllmain.cpp, 14]            DllMain
+
+DLL_THREAD_ATTACH
+  Declared as: 2
+    Use [dllmain.cpp, 12]            DllMain
+
+DLL_THREAD_DETACH
+  Declared as: 3
+    Use [dllmain.cpp, 13]            DllMain
+
+IDD_ABOUTBOX
+  Declared as: 100
+    Define [Resource.h, 7]           Resource.h
+    Use [MFCApplication1Dlg.cpp, 36]   CAboutDlg::CAboutDlg
+
+IDD_MFCAPPLICATION1_DIALOG
+  Declared as: 102
+    Define [Resource.h, 9]           Resource.h
+    Use [MFCApplication1Dlg.cpp, 54]   MFCApplication1Dlg.cpp
+
+IDM_ABOUTBOX
+  Declared as: 0x0010
+    Define [Resource.h, 6]           Resource.h
+    Use [MFCApplication1Dlg.cpp, 80]   MFCApplication1Dlg.cpp
+    Use [MFCApplication1Dlg.cpp, 80]   MFCApplication1Dlg.cpp
+    Use [MFCApplication1Dlg.cpp, 81]   MFCApplication1Dlg.cpp
+    Use [MFCApplication1Dlg.cpp, 93]   MFCApplication1Dlg.cpp
+    Use [MFCApplication1Dlg.cpp, 109]   MFCApplication1Dlg.cpp
+
+IDR_MAINFRAME
+  Declared as: 128
+    Define [Resource.h, 5]           Resource.h
+    Use [MFCApplication1Dlg.cpp, 56]   MFCApplication1Dlg.cpp
+
+IDS_ABOUTBOX
+  Declared as: 101
+    Define [Resource.h, 8]           Resource.h
+    Use [MFCApplication1Dlg.cpp, 88]   MFCApplication1Dlg.cpp
+
+new
+  Declared as: DEBUG_NEW
+    Define [MFCApplication1.cpp, 11]   MFCApplication1.cpp
+    Use [MFCApplication1.cpp, 60]    CMFCApplication1App::InitInstance
+                                                                     Page 29
+                          Macro Cross Reference Report
+===============================================================================
+
+new
+  Declared as: DEBUG_NEW
+    Define [MFCApplication1Dlg.cpp, 12]   MFCApplication1Dlg.cpp
+
+PCH_H
+    Use [pch.h, 7]                   pch.h
+    Define [pch.h, 8]                pch.h
+
+PCH_H
+    Use [pch.h, 7]                   pch.h
+    Define [pch.h, 8]                pch.h
+
+TRUE
+  Declared as: 1
+    Use [dllmain.cpp, 17]            DllMain
+
+VC_EXTRALEAN
+    Use [framework.h, 3]             framework.h
+    Define [framework.h, 4]          framework.h
+
+WIN32_LEAN_AND_MEAN
+    Define [framework.h, 3]          framework.h
+
+WINAPI
+  Declared as: __stdcall
+    Use [dllmain.cpp, 4]             DllMain
+                                                                     Page 30
+                      Include File Cross Reference Report
+===============================================================================
+
+afxcmn.h
+    Include [framework.h, 26]        framework.h
+
+afxcontrolbars.h
+    Include [framework.h, 29]        framework.h
+
+afxdialogex.h
+    Include [MFCApplication1Dlg.cpp, 9]   MFCApplication1Dlg.cpp
+
+afxdisp.h
+    Include [framework.h, 18]        framework.h
+
+afxdtctl.h
+    Include [framework.h, 23]        framework.h
+
+afxext.h
+    Include [framework.h, 15]        framework.h
+
+afxwin.h
+    Include [framework.h, 14]        framework.h
+
+ClassPolymorphic.h
+    Include [ClassPolymorphic.cpp, 1]   ClassPolymorphic.cpp
+    Include [CppConsoleApp.cpp, 9]   CppConsoleApp.cpp
+
+CppDll.h
+    Include [CppDll.cpp, 6]          CppDll.cpp
+
+framework.h
+    Include [pch.h, 11]              pch.h
+    Include [CppDll.cpp, 5]          CppDll.cpp
+
+framework.h
+    Include [MFCApplication1.cpp, 6]   MFCApplication1.cpp
+    Include [pch.h, 11]              pch.h
+    Include [MFCApplication1Dlg.cpp, 6]   MFCApplication1Dlg.cpp
+
+GrobalFunc.h
+    Include [GrobalFunc.cpp, 1]      GrobalFunc.cpp
+    Include [CppConsoleApp.cpp, 7]   CppConsoleApp.cpp
+
+InlineFunction.h
+    Include [CppConsoleApp.cpp, 8]   CppConsoleApp.cpp
+
+iostream
+    Include [ExternFunc.cpp, 1]      ExternFunc.cpp
+    Include [InlineFunction.h, 1]    InlineFunction.h
+    Include [GrobalFunc.cpp, 2]      GrobalFunc.cpp
+    Include [ClassPolymorphic.h, 2]   ClassPolymorphic.h
+    Include [CppConsoleApp.cpp, 4]   CppConsoleApp.cpp
+
+LocalClassA.h
+    Include [LocalClassA.cpp, 2]     LocalClassA.cpp
+
+memory
+                                                                     Page 31
+                      Include File Cross Reference Report
+===============================================================================
+    Include [ClassPolymorphic.h, 3]   ClassPolymorphic.h
+    Include [CppConsoleApp.cpp, 5]   CppConsoleApp.cpp
+
+MFCApplication1.h
+    Include [MFCApplication1.cpp, 7]   MFCApplication1.cpp
+    Include [MFCApplication1Dlg.cpp, 7]   MFCApplication1Dlg.cpp
+
+MFCApplication1Dlg.h
+    Include [MFCApplication1.cpp, 8]   MFCApplication1.cpp
+    Include [MFCApplication1Dlg.cpp, 8]   MFCApplication1Dlg.cpp
+
+minwindef.h
+
+ostream
+
+pch.h
+    Include [dllmain.cpp, 2]         dllmain.cpp
+    Include [CppDll.cpp, 4]          CppDll.cpp
+    Include [pch.cpp, 3]             pch.cpp
+    Include [LocalClassA.cpp, 1]     LocalClassA.cpp
+
+pch.h
+    Include [MFCApplication1.cpp, 5]   MFCApplication1.cpp
+    Include [pch.cpp, 3]             pch.cpp
+    Include [MFCApplication1Dlg.cpp, 5]   MFCApplication1Dlg.cpp
+
+Resource.h
+    Include [MFCApplication1.h, 11]   MFCApplication1.h
+
+sdkddkver.h
+    Include [targetver.h, 8]         targetver.h
+
+targetver.h
+    Include [framework.h, 7]         framework.h
+
+vcruntime_new.h
+
+Windows.h
+    Include [framework.h, 5]         framework.h
+
+winnt.h
+                                                                     Page 32
+                         Simple Invocation Tree Report
+===============================================================================
+
+abstructclass::memfunc1
+| std::operator<<
+
+abstructclass::memfunc2
+| std::operator<<
+
+baseclass::memfunc1
+| std::operator<<
+
+baseclass::memfunc2
+| std::operator<<
+
+classpolymorphicfactory
+| std::unique_ptr::unique_ptr
+| std::unique_ptr::unique_ptr
+| operator new
+| baseclass::baseclass
+| subclass1::subclass1
+
+CMFCApplication1App::InitInstance
+| CMFCApplication1Dlg::CMFCApplication1Dlg
+
+externfunction1
+| std::operator<<
+
+externfunction2
+| std::operator<<
+
+funcpointer1
+| std::operator<<
+
+funcpointer2
+| std::operator<<
+
+grobalfunction1
+| std::operator<<
+
+grobalfunction2
+| std::operator<<
+
+inlinefunction1
+| std::operator<<
+
+inlinefunction2
+| std::operator<<
+
+local::localfunction1
+| std::operator<<
+
+local::localfunction2
+| std::operator<<
+
+localclass::memberfunc1_1
+| std::operator<<
+                                                                     Page 33
+                         Simple Invocation Tree Report
+===============================================================================
+
+localclass::memberfunc1_2
+| std::operator<<
+
+localclass::memberfunc1_3
+| std::operator<<
+
+localclass::memberfunc1_4
+| std::operator<<
+
+localclass::memberfunc2_1
+| std::operator<<
+
+localclass::staticmemberfunc1
+| std::operator<<
+
+localclass::staticmemberfunc2
+| std::operator<<
+
+localfunction1
+| std::operator<<
+
+localfunction2
+| std::operator<<
+
+localfunction2
+| std::operator<<
+
+main
+| std::operator<<
+| localfunction1
+| local::localfunction1
+| externfunction1
+| grobalfunction1
+| staticfunction1
+| inlinefunction1
+| funcpointer1
+| localclass::memberfunc1_1
+| localclass::localclass
+| std::unique_ptr::~unique_ptr
+| std::unique_ptr::unique_ptr
+| operator new
+| localclass::memberfunc1_2
+| std::unique_ptr::operator->
+| localclass::~localclass
+| localclass::memberfunc1_3
+| localclass::memberfunc1_4
+| localclass::staticmemberfunc1
+| std::unique_ptr::unique_ptr
+| classpolymorphicfactory
+| abstructclass::memfunc1  (Virtual)
+| baseclass::memfunc1  (Virtual)
+| subclass1::staticmemberfunc1
+
+staticfunction1
+                                                                     Page 34
+                         Simple Invocation Tree Report
+===============================================================================
+| std::operator<<
+
+staticfunction2
+| std::operator<<
+
+subclass1::memfunc1
+| std::operator<<
+
+subclass1::memfunc2
+| std::operator<<
+
+subclass1::staticmemberfunc1
+| std::operator<<
+
+subclass1::staticmemberfunc2
+| std::operator<<
+
+subclass2::memfunc1
+| std::operator<<
+
+subclass2::memfunc2
+| std::operator<<
+                                                                     Page 35
+                         Program Unit Complexity Report
+===============================================================================
+
+abstructclass::memfunc1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+abstructclass::memfunc2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+baseclass::memfunc1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+baseclass::memfunc2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+CAboutDlg::CAboutDlg
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+CAboutDlg::DoDataExchange
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+classpolymorphicfactory
+   Cyclomatic:                        3
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 3
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        3
+   Count Path Log:                        0
+                                                                     Page 36
+                         Program Unit Complexity Report
+===============================================================================
+
+CMFCApplication1App::InitInstance
+   Cyclomatic:                        5
+   Modified Cyclomatic:               5
+   Strict Cyclomatic:                 5
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        8
+   Count Path Log:                        1
+
+DllMain
+   Cyclomatic:                        5
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 5
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+
+ExportedClassA::ExportedClassA
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+externfunction1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+externfunction2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+fnCppDll
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+funcpointer1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+                                                                     Page 37
+                         Program Unit Complexity Report
+===============================================================================
+
+funcpointer2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+grobalfunction1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+grobalfunction2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+inlinefunction1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+inlinefunction2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+local::localfunction1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+local::localfunction2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+                                                                     Page 38
+                         Program Unit Complexity Report
+===============================================================================
+
+localclass::memberfunc1_1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+localclass::memberfunc1_2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+localclass::memberfunc1_3
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+localclass::memberfunc1_4
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+localclass::memberfunc2_1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+localclass::staticmemberfunc1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+localclass::staticmemberfunc2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+                                                                     Page 39
+                         Program Unit Complexity Report
+===============================================================================
+
+localfunction1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+localfunction2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+localfunction2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+staticfunction1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+staticfunction2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+subclass1::memfunc1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+                                                                     Page 40
+                         Program Unit Complexity Report
+===============================================================================
+
+subclass1::memfunc2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+subclass1::staticmemberfunc1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+subclass1::staticmemberfunc2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+subclass2::memfunc1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+subclass2::memfunc2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+                                                                     Page 41
+                         Project Metrics Summary Report
+===============================================================================
+Classes:                     10
+Files:                       28
+Program Units:               40
+Lines:                      833
+Lines Blank:                202
+Lines Code:                 397
+Lines Comment:              141
+Lines Inactive:              21
+Executable Statements:       67
+Declarative Statements:     142
+Ratio Comment/Code:        0.36
+                                                                     Page 42
+                              Program Unit Metrics
+===============================================================================
+
+abstructclass::memfunc1 (Public Pure Virtual Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+abstructclass::memfunc2 (Public Pure Virtual Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+baseclass::memfunc1 (Public Virtual Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+baseclass::memfunc2 (Public Virtual Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+CAboutDlg::CAboutDlg (Public Function)
+   Lines:                   3
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              3
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  1
+   Execution Statements:    0
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+                                                                     Page 43
+                              Program Unit Metrics
+===============================================================================
+
+CAboutDlg::DoDataExchange (Public Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  1
+   Execution Statements:    0
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.00
+
+classpolymorphicfactory (Function)
+   Lines:                   10
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              10
+   Inactive Lines:          0
+   Executable Code Lines:   5
+   Declarative Code Lines:  1
+   Execution Statements:    5
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+CMFCApplication1App::InitInstance (Public Function)
+   Lines:                   66
+   Comment Lines:           22
+   Blank Lines:             10
+   Code Lines:              32
+   Inactive Lines:          0
+   Executable Code Lines:   3
+   Declarative Code Lines:  4
+   Execution Statements:    4
+   Declaration Statements:  4
+   Ratio Comment/Code:      0.69
+
+DllMain (Function)
+   Lines:                   15
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              15
+   Inactive Lines:          0
+   Executable Code Lines:   6
+   Declarative Code Lines:  1
+   Execution Statements:    7
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+ExportedClassA::ExportedClassA (Public Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+                                                                     Page 44
+                              Program Unit Metrics
+===============================================================================
+
+externfunction1 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+externfunction2 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+fnCppDll (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+funcpointer1 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+funcpointer2 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+                                                                     Page 45
+                              Program Unit Metrics
+===============================================================================
+
+grobalfunction1 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+grobalfunction2 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+inlinefunction1 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+inlinefunction2 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+local::localfunction1 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+                                                                     Page 46
+                              Program Unit Metrics
+===============================================================================
+
+local::localfunction2 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+localclass::memberfunc1_1 (Public Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+localclass::memberfunc1_2 (Public Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+localclass::memberfunc1_3 (Public Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+localclass::memberfunc1_4 (Public Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+                                                                     Page 47
+                              Program Unit Metrics
+===============================================================================
+
+localclass::memberfunc2_1 (Public Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+localclass::staticmemberfunc1 (Public Static Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+localclass::staticmemberfunc2 (Public Static Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+localfunction1 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+localfunction2 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+                                                                     Page 48
+                              Program Unit Metrics
+===============================================================================
+
+localfunction2 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+main (Function)
+   Lines:                   48
+   Comment Lines:           0
+   Blank Lines:             14
+   Code Lines:              34
+   Inactive Lines:          0
+   Executable Code Lines:   23
+   Declarative Code Lines:  7
+   Execution Statements:    17
+   Declaration Statements:  6
+   Ratio Comment/Code:      0.00
+
+staticfunction1 (Static Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+staticfunction2 (Static Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+subclass1::memfunc1 (Public Virtual Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+                                                                     Page 49
+                              Program Unit Metrics
+===============================================================================
+
+subclass1::memfunc2 (Public Virtual Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+subclass1::staticmemberfunc1 (Public Static Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+subclass1::staticmemberfunc2 (Public Static Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+subclass2::memfunc1 (Public Virtual Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+subclass2::memfunc2 (Public Virtual Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+                                                                     Page 50
+                                  File Metrics
+===============================================================================
+
+ClassPolymorphic.cpp
+   Lines:                   69
+   Comment Lines:           0
+   Blank Lines:             18
+   Preprocessor Lines:      1
+   Code Lines:              50
+   Inactive Lines:          0
+   Executable Code Lines:   15
+   Declarative Code Lines:  11
+   Execution Statements:    15
+   Declaration Statements:  11
+   Ratio Comment/Code:      0.00
+   Units                    11
+
+ClassPolymorphic.h
+   Lines:                   37
+   Comment Lines:           0
+   Blank Lines:             7
+   Preprocessor Lines:      3
+   Code Lines:              27
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  40
+   Ratio Comment/Code:      0.00
+   Units                    0
+
+CppConsoleApp.cpp
+   Lines:                   158
+   Comment Lines:           15
+   Blank Lines:             37
+   Preprocessor Lines:      5
+   Code Lines:              101
+   Inactive Lines:          0
+   Executable Code Lines:   37
+   Declarative Code Lines:  29
+   Execution Statements:    31
+   Declaration Statements:  31
+   Ratio Comment/Code:      0.15
+   Units                    15
+
+CppDll.cpp
+   Lines:                   22
+   Comment Lines:           5
+   Blank Lines:             5
+   Preprocessor Lines:      3
+   Code Lines:              9
+   Inactive Lines:          0
+   Executable Code Lines:   3
+   Declarative Code Lines:  12
+   Execution Statements:    2
+   Declaration Statements:  3
+   Ratio Comment/Code:      0.56
+   Units                    2
+                                                                     Page 51
+                                  File Metrics
+===============================================================================
+
+CppDll.h
+   Lines:                   22
+   Comment Lines:           8
+   Blank Lines:             2
+   Preprocessor Lines:      5
+   Code Lines:              6
+   Inactive Lines:          3
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  10
+   Ratio Comment/Code:      1.33
+   Units                    0
+
+dllmain.cpp
+   Lines:                   19
+   Comment Lines:           1
+   Blank Lines:             2
+   Preprocessor Lines:      1
+   Code Lines:              15
+   Inactive Lines:          0
+   Executable Code Lines:   7
+   Declarative Code Lines:  1
+   Execution Statements:    7
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.07
+   Units                    1
+
+ExternFunc.cpp
+   Lines:                   13
+   Comment Lines:           0
+   Blank Lines:             4
+   Preprocessor Lines:      1
+   Code Lines:              8
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  2
+   Execution Statements:    2
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+   Units                    2
+
+framework.h
+   Lines:                   5
+   Comment Lines:           2
+   Blank Lines:             1
+   Preprocessor Lines:      3
+   Code Lines:              0
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+   Units                    0
+                                                                     Page 52
+                                  File Metrics
+===============================================================================
+
+framework.h
+   Lines:                   49
+   Comment Lines:           10
+   Blank Lines:             22
+   Preprocessor Lines:      26
+   Code Lines:              0
+   Inactive Lines:          4
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.00
+   Units                    0
+
+GrobalFunc.cpp
+   Lines:                   12
+   Comment Lines:           0
+   Blank Lines:             2
+   Preprocessor Lines:      2
+   Code Lines:              8
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  2
+   Execution Statements:    2
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+   Units                    2
+
+GrobalFunc.h
+   Lines:                   6
+   Comment Lines:           0
+   Blank Lines:             3
+   Preprocessor Lines:      1
+   Code Lines:              2
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+   Units                    0
+
+InlineFunction.h
+   Lines:                   25
+   Comment Lines:           0
+   Blank Lines:             7
+   Preprocessor Lines:      2
+   Code Lines:              16
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    4
+   Declaration Statements:  4
+   Ratio Comment/Code:      0.00
+   Units                    4
+                                                                     Page 53
+                                  File Metrics
+===============================================================================
+
+LocalClassA.cpp
+   Lines:                   2
+   Comment Lines:           0
+   Blank Lines:             0
+   Preprocessor Lines:      2
+   Code Lines:              0
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+   Units                    0
+
+LocalClassA.h
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             1
+   Preprocessor Lines:      1
+   Code Lines:              3
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.00
+   Units                    0
+
+MFCApplication1.cpp
+   Lines:                   106
+   Comment Lines:           31
+   Blank Lines:             26
+   Preprocessor Lines:      9
+   Code Lines:              40
+   Inactive Lines:          0
+   Executable Code Lines:   4
+   Declarative Code Lines:  5
+   Execution Statements:    4
+   Declaration Statements:  5
+   Ratio Comment/Code:      0.78
+   Units                    1
+
+MFCApplication1.h
+   Lines:                   31
+   Comment Lines:           8
+   Blank Lines:             10
+   Preprocessor Lines:      5
+   Code Lines:              9
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  7
+   Ratio Comment/Code:      0.89
+   Units                    0
+                                                                     Page 54
+                                  File Metrics
+===============================================================================
+
+MFCApplication1Dlg.cpp
+   Lines:                   154
+   Comment Lines:           25
+   Blank Lines:             34
+   Preprocessor Lines:      10
+   Code Lines:              89
+   Inactive Lines:          3
+   Executable Code Lines:   0
+   Declarative Code Lines:  6
+   Execution Statements:    0
+   Declaration Statements:  12
+   Ratio Comment/Code:      0.28
+   Units                    2
+
+MFCApplication1Dlg.h
+   Lines:                   33
+   Comment Lines:           9
+   Blank Lines:             7
+   Preprocessor Lines:      3
+   Code Lines:              14
+   Inactive Lines:          3
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  10
+   Ratio Comment/Code:      0.64
+   Units                    0
+
+pch.cpp
+   Lines:                   5
+   Comment Lines:           2
+   Blank Lines:             2
+   Preprocessor Lines:      1
+   Code Lines:              0
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+   Units                    0
+
+pch.cpp
+   Lines:                   5
+   Comment Lines:           2
+   Blank Lines:             2
+   Preprocessor Lines:      1
+   Code Lines:              0
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+   Units                    0
+                                                                     Page 55
+                                  File Metrics
+===============================================================================
+
+pch.h
+   Lines:                   13
+   Comment Lines:           7
+   Blank Lines:             3
+   Preprocessor Lines:      4
+   Code Lines:              0
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+   Units                    0
+
+pch.h
+   Lines:                   13
+   Comment Lines:           7
+   Blank Lines:             3
+   Preprocessor Lines:      4
+   Code Lines:              0
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+   Units                    0
+
+Resource.h
+   Lines:                   21
+   Comment Lines:           6
+   Blank Lines:             1
+   Preprocessor Lines:      13
+   Code Lines:              0
+   Inactive Lines:          8
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+   Units                    0
+
+targetver.h
+   Lines:                   8
+   Comment Lines:           3
+   Blank Lines:             3
+   Preprocessor Lines:      2
+   Code Lines:              0
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+   Units                    0
+                                                                     Page 56
+                          File Average Metrics Report
+===============================================================================
+
+ClassPolymorphic.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              5
+   Code                               5
+   Comment                            0
+   Blank                              0
+
+ClassPolymorphic.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+CppConsoleApp.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              7
+   Code                               6
+   Comment                            0
+   Blank                              1
+
+CppDll.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              4
+   Code                               4
+   Comment                            0
+   Blank                              0
+
+CppDll.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+dllmain.cpp
+   Cyclomatic                         5
+   Modified                           2
+   Strict                             5
+   Essential                          1
+   Lines                              15
+   Code                               15
+   Comment                            0
+   Blank                              0
+                                                                     Page 57
+                          File Average Metrics Report
+===============================================================================
+
+ExternFunc.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              4
+   Code                               4
+   Comment                            0
+   Blank                              0
+
+framework.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+framework.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+GrobalFunc.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              4
+   Code                               4
+   Comment                            0
+   Blank                              0
+
+GrobalFunc.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+InlineFunction.h
+   Cyclomatic                         4
+   Modified                           4
+   Strict                             4
+   Essential                          1
+   Lines                              16
+   Code                               16
+   Comment                            0
+   Blank                              0
+                                                                     Page 58
+                          File Average Metrics Report
+===============================================================================
+
+LocalClassA.cpp
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+LocalClassA.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+MFCApplication1.cpp
+   Cyclomatic                         5
+   Modified                           5
+   Strict                             5
+   Essential                          1
+   Lines                              66
+   Code                               32
+   Comment                            22
+   Blank                              10
+
+MFCApplication1.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+MFCApplication1Dlg.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              4
+   Code                               4
+   Comment                            0
+   Blank                              0
+
+MFCApplication1Dlg.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+                                                                     Page 59
+                          File Average Metrics Report
+===============================================================================
+
+pch.cpp
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+pch.cpp
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+pch.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+pch.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+Resource.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+targetver.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+                                                                     Page 60
+                              Class Metrics Report
+===============================================================================
+abstructclass:
+  Lines                     14
+  Lines Blank                0
+  Lines Code                14
+  Lines Comment              0
+  Average Lines              4
+  Average Lines Comment      0
+  Average Complexity         1
+  Maximum Complexity         1
+  Ratio Comment/Code      0.00
+
+baseclass:
+  Lines                     14
+  Lines Blank                0
+  Lines Code                14
+  Lines Comment              0
+  Average Lines              4
+  Average Lines Comment      0
+  Average Complexity         1
+  Maximum Complexity         1
+  Ratio Comment/Code      0.00
+
+CAboutDlg:
+  Lines                     24
+  Lines Blank                2
+  Lines Code                16
+  Lines Comment              3
+  Average Lines              3
+  Average Lines Comment      0
+  Average Complexity         1
+  Maximum Complexity         1
+  Ratio Comment/Code      0.19
+
+CMFCApplication1App:
+  Lines                     79
+  Lines Blank               13
+  Lines Code                40
+  Lines Comment             24
+  Average Lines             66
+  Average Lines Comment     22
+  Average Complexity         5
+  Maximum Complexity         5
+  Ratio Comment/Code      0.60
+
+CMFCApplication1Dlg:
+  Lines                     26
+  Lines Blank                4
+  Lines Code                14
+  Lines Comment              6
+  Average Lines              0
+  Average Lines Comment      0
+  Average Complexity         0
+  Maximum Complexity         0
+  Ratio Comment/Code      0.43
+
+                                                                     Page 61
+                              Class Metrics Report
+===============================================================================
+ExportedClassA:
+  Lines                      9
+  Lines Blank                0
+  Lines Code                 8
+  Lines Comment              1
+  Average Lines              4
+  Average Lines Comment      0
+  Average Complexity         1
+  Maximum Complexity         1
+  Ratio Comment/Code      0.13
+
+localclass:
+  Lines                     39
+  Lines Blank                7
+  Lines Code                32
+  Lines Comment              0
+  Average Lines              4
+  Average Lines Comment      0
+  Average Complexity         1
+  Maximum Complexity         1
+  Ratio Comment/Code      0.00
+
+LocalClassA:
+  Lines                      3
+  Lines Blank                0
+  Lines Code                 3
+  Lines Comment              0
+  Average Lines              0
+  Average Lines Comment      0
+  Average Complexity         0
+  Maximum Complexity         0
+  Ratio Comment/Code      0.00
+
+subclass1:
+  Lines                     25
+  Lines Blank                1
+  Lines Code                24
+  Lines Comment              0
+  Average Lines              4
+  Average Lines Comment      0
+  Average Complexity         1
+  Maximum Complexity         1
+  Ratio Comment/Code      0.00
+
+subclass2:
+  Lines                     14
+  Lines Blank                0
+  Lines Code                14
+  Lines Comment              0
+  Average Lines              4
+  Average Lines Comment      0
+  Average Complexity         1
+  Maximum Complexity         1
+  Ratio Comment/Code      0.00
+
+                                                                     Page 62
+                            Class OO Metrics Report
+===============================================================================
+abstructclass:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             0
+  IFANIN (Count of Base Classes)            0
+  CBO    (Count of Coupled Classes)         0
+  NOC    (Count of Derived Classes)         1
+  RFC    (Count of All Methods)             8
+  NIM    (Count of Instance Methods)        8
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 8
+
+baseclass:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             1
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         0
+  NOC    (Count of Derived Classes)         2
+  RFC    (Count of All Methods)            16
+  NIM    (Count of Instance Methods)        8
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 8
+
+CAboutDlg:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             0
+  IFANIN (Count of Base Classes)            0
+  CBO    (Count of Coupled Classes)         0
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)             5
+  NIM    (Count of Instance Methods)        5
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 5
+
+CMFCApplication1App:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             0
+  IFANIN (Count of Base Classes)            0
+  CBO    (Count of Coupled Classes)         1
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)             3
+  NIM    (Count of Instance Methods)        3
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 3
+
+CMFCApplication1Dlg:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             0
+  IFANIN (Count of Base Classes)            0
+  CBO    (Count of Coupled Classes)         0
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)             4
+  NIM    (Count of Instance Methods)        4
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 4
+
+                                                                     Page 63
+                            Class OO Metrics Report
+===============================================================================
+ExportedClassA:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             0
+  IFANIN (Count of Base Classes)            0
+  CBO    (Count of Coupled Classes)         0
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)             6
+  NIM    (Count of Instance Methods)        6
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 6
+
+localclass:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             0
+  IFANIN (Count of Base Classes)            0
+  CBO    (Count of Coupled Classes)         0
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            11
+  NIM    (Count of Instance Methods)        9
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                11
+
+LocalClassA:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             0
+  IFANIN (Count of Base Classes)            0
+  CBO    (Count of Coupled Classes)         0
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)             0
+  NIM    (Count of Instance Methods)        0
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 0
+
+subclass1:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             2
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         0
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            26
+  NIM    (Count of Instance Methods)        8
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                10
+
+subclass2:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             2
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         0
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            21
+  NIM    (Count of Instance Methods)        5
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 5
+
+                                                                     Page 64
+                           Uninitialized Items Report
+
+  Def: Items that have not been given an initial value at point of definition.
+===============================================================================
+
+MFCApplication1.cpp Line
+    InitCtrls         46
+    nResponse         76
+    pShellManager     60
+
+MFCApplication1Dlg.cpp Line
+    pDX               42
+                                                                     Page 65
+                          Unused Objects and Functions
+
+Def: A variable that is not read from, written to after declaration, 
+or passed to a function, function parameters that are unused in the function, 
+and functions that have no invocations. 
+===============================================================================
+
+ClassPolymorphic.cpp                                 Line
+    staticmemberfunc2 - Public Static Function         54
+
+ClassPolymorphic.h                                   Line
+    [unnamed] - Unresolved Parameter                    6
+      Declared in: abstructclass::abstructclass()
+    [unnamed] - Unresolved Parameter                    6
+      Declared in: abstructclass::abstructclass()
+    [unnamed] - Unresolved Parameter                    6
+      Declared in: abstructclass::operator=()
+    [unnamed] - Unresolved Parameter                    6
+      Declared in: abstructclass::operator=()
+    [unnamed] - Unresolved Parameter                   13
+      Declared in: baseclass::baseclass()
+    [unnamed] - Unresolved Parameter                   13
+      Declared in: baseclass::baseclass()
+    [unnamed] - Unresolved Parameter                   13
+      Declared in: baseclass::operator=()
+    [unnamed] - Unresolved Parameter                   13
+      Declared in: baseclass::operator=()
+    [unnamed] - Unresolved Parameter                   20
+      Declared in: subclass1::operator=()
+    [unnamed] - Unresolved Parameter                   20
+      Declared in: subclass1::operator=()
+    [unnamed] - Unresolved Parameter                   20
+      Declared in: subclass1::subclass1()
+    [unnamed] - Unresolved Parameter                   20
+      Declared in: subclass1::subclass1()
+    [unnamed] - Unresolved Parameter                   30
+      Declared in: subclass2::operator=()
+    [unnamed] - Unresolved Parameter                   30
+      Declared in: subclass2::operator=()
+
+CppConsoleApp.cpp                                    Line
+    [unnamed] - Unresolved Parameter                   58
+      Declared in: localclass::localclass()
+    [unnamed] - Unresolved Parameter                   58
+      Declared in: localclass::localclass()
+    funcpointer2 - Function                            49
+    localfunction2 - Function                          27
+    memberfunc2_1 - Public Function                    66
+    staticmemberfunc2 - Public Static Function         91
+    localfunction2 - Function                          39
+    localfunction2 - Function                          16
+    main - Function                                    99
+
+ExternFunc.cpp                                       Line
+    externfunction2 - Function                          9
+
+GrobalFunc.cpp                                       Line
+    grobalfunction2 - Function                          9
+
+InlineFunction.h                                     Line
+    inlinefunction2 - Function                          9
+                                                                     Page 66
+                          Unused Objects and Functions
+
+Def: A variable that is not read from, written to after declaration, 
+or passed to a function, function parameters that are unused in the function, 
+and functions that have no invocations. 
+===============================================================================
+    staticfunction2 - Static Function                  19
+
+CppDll.cpp                                           Line
+    ExportedClassA - Public Function                   19
+    fnCppDll - Function                                13
+    nCppDll - Global Object                            10
+
+CppDll.h                                             Line
+    [unnamed] - Unresolved Parameter                   14
+      Declared in: ExportedClassA::ExportedClassA()
+    [unnamed] - Unresolved Parameter                   14
+      Declared in: ExportedClassA::ExportedClassA()
+    [unnamed] - Unresolved Parameter                   14
+      Declared in: ExportedClassA::operator=()
+    [unnamed] - Unresolved Parameter                   14
+      Declared in: ExportedClassA::operator=()
+
+dllmain.cpp                                          Line
+    DllMain - Function                                  4
+    hModule - Parameter                                 4
+      Declared in: DllMain()
+    lpReserved - Parameter                              6
+      Declared in: DllMain()
+
+MFCApplication1.cpp                                  Line
+    InitInstance - Public Function                     41
+    dlg - Local Object                                 74
+    InitCtrls - Local Object                           46
+    nResponse - Local Object                           76
+    pShellManager - Local Object                       60
+
+MFCApplication1Dlg.cpp                               Line
+    [unnamed] - Unresolved Parameter                   18
+      Declared in: CAboutDlg::CAboutDlg()
+    [unnamed] - Unresolved Parameter                   18
+      Declared in: CAboutDlg::CAboutDlg()
+    CAboutDlg - Public Function                        36
+    DoDataExchange - Public Function                   40
+    pDX - Local Object                                 42
+    pDX - Parameter                                    40
+      Declared in: CAboutDlg::DoDataExchange()
+
+MFCApplication1Dlg.h                                 Line
+    pDX - Unresolved Parameter                         21
+      Declared in: CMFCApplication1Dlg::DoDataExchange()
+    pParent - Unresolved Parameter                     13
+      Declared in: CMFCApplication1Dlg::CMFCApplication1Dlg()
+                                                                     Page 67
+                             Unused Objects Report
+===============================================================================
+
+ClassPolymorphic.h
+    [unnamed]          6
+    [unnamed]          6
+    [unnamed]          6
+    [unnamed]          6
+    [unnamed]         13
+    [unnamed]         13
+    [unnamed]         13
+    [unnamed]         13
+    [unnamed]         20
+    [unnamed]         20
+    [unnamed]         20
+    [unnamed]         20
+    [unnamed]         30
+    [unnamed]         30
+
+CppConsoleApp.cpp
+    [unnamed]         58
+    [unnamed]         58
+
+CppDll.cpp
+    nCppDll           10
+
+CppDll.h
+    [unnamed]         14
+    [unnamed]         14
+    [unnamed]         14
+    [unnamed]         14
+
+dllmain.cpp
+    hModule            4
+    lpReserved         6
+
+MFCApplication1.cpp
+    dlg               74
+    InitCtrls         46
+    nResponse         76
+    pShellManager     60
+
+MFCApplication1Dlg.cpp
+    [unnamed]         18
+    [unnamed]         18
+    pDX               42
+    pDX               40
+
+MFCApplication1Dlg.h
+    pDX               21
+    pParent           13
+                                                                     Page 68
+                              Unused Types Report
+===============================================================================
+
+LocalClassA.h
+    LocalClassA      2
+                                                                     Page 69
+                          Unused Program Units Report
+===============================================================================
+
+ClassPolymorphic.cpp
+    abstructclass::memfunc2               20
+    subclass1::staticmemberfunc2          54
+
+CppConsoleApp.cpp
+    funcpointer2                          49
+    local::localfunction2                 27
+    localclass::memberfunc2_1             66
+    localclass::staticmemberfunc2         91
+    localfunction2                        39
+    localfunction2                        16
+    main                                  99
+
+ExternFunc.cpp
+    externfunction2                        9
+
+GrobalFunc.cpp
+    grobalfunction2                        9
+
+InlineFunction.h
+    inlinefunction2                        9
+    staticfunction2                       19
+
+CppDll.cpp
+    ExportedClassA::ExportedClassA        19
+    fnCppDll                              13
+
+dllmain.cpp
+    DllMain                                4
+
+MFCApplication1.cpp
+    CMFCApplication1App::InitInstance     41
+
+MFCApplication1Dlg.cpp
+    CAboutDlg::CAboutDlg                  36
+    CAboutDlg::DoDataExchange             40

@@ -1,0 +1,3396 @@
+                                                                     Page 1
+                         Data Dictionary Summary Report
+===============================================================================
+
+[unnamed]   (Unresolved Parameter)
+   [main.cpp, 12]
+
+[unnamed]   (Unresolved Parameter)
+   [main.cpp, 5]
+
+[unnamed]   (Unresolved Parameter)
+   [main.cpp, 5]
+
+[unnamed]   (Unresolved Parameter)
+   [main.cpp, 14]
+
+[unnamed]   (Unresolved Parameter)
+   [main.cpp, 14]
+
+[unnamed]   (Unresolved Parameter)
+   [main.cpp, 14]
+
+[unnamed]   (Unresolved Parameter)
+   [main.cpp, 14]
+
+[unnamed]   (Unresolved Parameter)
+   [main.cpp, 5]
+
+[unnamed]   (Unresolved Parameter)
+   [main.cpp, 5]
+
+[unnamed]   (Unresolved Parameter)
+   [main.cpp, 5]
+
+[unnamed]   (Unresolved Parameter)
+   [main.cpp, 5]
+
+[unnamed]   (Unresolved Parameter)
+   [main.cpp, 9]
+
+[unnamed]   (Unresolved Parameter)
+   [main.cpp, 9]
+
+_Pm   (Unresolved Parameter)
+
+_Pm   (Unresolved Parameter)
+
+a   (Local Object)
+   [main.cpp, 14]
+
+AliveFunction1   (Function)
+   [main.cpp, 9]
+
+AliveFunction1_2   (Function)
+   [main.cpp, 14]
+
+AliveFunction2   (Function)
+   [AliveSampleCode2.cpp, 3]
+                                                                     Page 2
+                         Data Dictionary Summary Report
+===============================================================================
+
+AliveFunction2_2   (Function)
+   [AliveSampleCode2.cpp, 8]
+
+AliveFunction4   (Function)
+   [AliveSampleCode4.h, 5]
+
+AliveFunction9   (Static Function)
+   [AliveSampleCode9.h, 4]
+
+AliveSampleCode7   (Class)
+   [AliveSampleCode7.h, 3]
+
+AliveSampleCode7::AliveFunction7   (Public Static Function)
+   [AliveSampleCode7.cpp, 4]
+
+APIENTRY   (Macro)
+
+Child   (Class)
+   [main.cpp, 14]
+
+Child::Child   (Public Function)
+   [main.cpp, 14]
+
+Child::Child   (Public Function)
+   [main.cpp, 14]
+
+Child::Child   (Public Function)
+   [main.cpp, 14]
+
+Child::operator=   (Public Function)
+   [main.cpp, 14]
+
+Child::operator=   (Public Function)
+   [main.cpp, 14]
+
+Child::Print   (Public Virtual Function)
+   [main.cpp, 17]
+
+Child::~Child   (Public Function)
+   [main.cpp, 14]
+
+ClassObject   (Class)
+   [main.cpp, 5]
+
+ClassObject::ClassObject   (Public Function)
+   [main.cpp, 5]
+
+ClassObject::ClassObject   (Public Function)
+   [main.cpp, 5]
+
+ClassObject::ClassObject   (Public Function)
+   [main.cpp, 5]
+
+ClassObject::Print   (Public Function)
+   [main.cpp, 8]
+                                                                     Page 3
+                         Data Dictionary Summary Report
+===============================================================================
+
+ClassObject::PrintPointer   (Public Function)
+   [main.cpp, 14]
+
+DLL_PROCESS_ATTACH   (Macro)
+
+DLL_PROCESS_DETACH   (Macro)
+
+DLL_THREAD_ATTACH   (Macro)
+
+DLL_THREAD_DETACH   (Macro)
+
+DllFunctionTest   (Local Object)
+   [main.cpp, 18]
+
+DllFunctionTest   (Function)
+   [TestDll.cpp, 10]
+
+DllMain   (Function)
+   [dllmain.cpp, 4]
+
+DWORD   (Typedef)
+
+Exponentiation   (Function)
+   [main.cpp, 5]
+
+FUNC   (Typedef)
+   [main.cpp, 5]
+
+functionPointer   (Local Object)
+   [main.cpp, 12]
+
+functionPointer   (Local Object)
+   [maincpp.cpp, 17]
+
+GetProcAddress   (Function)
+
+HeaderDefineFunction   (Function)
+   [AliveSampleCode.cpp, 4]
+
+HeaderDefineFunction2   (Function)
+   [AliveSampleCode.cpp, 9]
+
+HMODULE   (Typedef)
+
+hModule   (Unresolved Parameter)
+
+hModule   (Local Object)
+   [main.cpp, 10]
+
+hModule   (Parameter)
+   [dllmain.cpp, 4]
+
+i   (Local Object)
+   [main.cpp, 28]
+                                                                     Page 4
+                         Data Dictionary Summary Report
+===============================================================================
+
+LoadLibrary   (Macro)
+
+LoadLibraryA   (Function)
+
+lpReserved   (Parameter)
+   [dllmain.cpp, 6]
+
+LPVOID   (Typedef)
+
+main   (Function)
+   [main.cpp, 7]
+
+main   (Function)
+   [main.cpp, 5]
+
+main   (Function)
+   [main.cpp, 16]
+
+main   (Function)
+   [main.cpp, 5]
+
+main   (Function)
+   [main.cpp, 4]
+
+main   (Function)
+   [main.cpp, 10]
+
+main   (Function)
+   [main.cpp, 5]
+
+main   (Function)
+   [main.cpp, 3]
+
+main   (Function)
+   [maincpp.cpp, 15]
+
+main   (Function)
+   [main.cpp, 21]
+
+main   (Function)
+   [main.cpp, 5]
+
+main   (Function)
+   [main.cpp, 23]
+
+main   (Function)
+   [main.cpp, 5]
+
+main   (Function)
+   [main.cpp, 5]
+
+main   (Function)
+   [main.cpp, 22]
+                                                                     Page 5
+                         Data Dictionary Summary Report
+===============================================================================
+
+main   (Function)
+   [main.cpp, 3]
+
+NULL   (Macro)
+
+object   (Local Object)
+   [main.cpp, 23]
+
+objectPointer   (Local Object)
+   [main.cpp, 26]
+
+operator delete   (Function)
+
+operator new   (Function)
+
+Parent   (Class)
+   [main.cpp, 5]
+
+Parent::operator=   (Public Function)
+   [main.cpp, 5]
+
+Parent::operator=   (Public Function)
+   [main.cpp, 5]
+
+Parent::Parent   (Public Function)
+   [main.cpp, 5]
+
+Parent::Parent   (Public Function)
+   [main.cpp, 5]
+
+Parent::Parent   (Public Function)
+   [main.cpp, 5]
+
+Parent::Print   (Public Virtual Function)
+   [main.cpp, 8]
+
+Parent::~Parent   (Public Function)
+   [main.cpp, 5]
+
+polymorphism   (Local Object)
+   [main.cpp, 25]
+
+printf   (Function)
+
+StaticMemmber   (Class)
+   [maincpp.cpp, 5]
+
+StaticMemmber::Print   (Public Static Function)
+   [maincpp.cpp, 8]
+
+std::_Vector_iterator::_Vector_iterator   (Public Function)
+
+std::_Vector_iterator<std::_Vector_val<std::_Simple_types<TestClass> > >   (Class)
+                                                                     Page 6
+                         Data Dictionary Summary Report
+===============================================================================
+
+std::basic_ostream   (Class Template)
+
+std::basic_ostream::operator<<   (Public Function)
+
+std::basic_ostream::operator<<   (Public Function)
+
+std::cout   (Global Object)
+
+std::endl   (Function Template)
+
+std::for_each   (Function Template)
+
+std::mem_fun   (Function Template)
+
+std::mem_fun<void, TestClass>   (Function)
+
+std::mem_fun_ref   (Function Template)
+
+std::mem_fun_ref<void, TestClass>   (Function)
+
+std::mem_fun_ref_t::mem_fun_ref_t   (Public Function)
+
+std::mem_fun_ref_t<void, TestClass>   (Class)
+
+std::mem_fun_t   (Class Template)
+
+std::mem_fun_t::operator()   (Public Const Function)
+
+std::operator<<   (Function Template)
+
+std::vector   (Class Template)
+
+std::vector::begin   (Public Function)
+
+std::vector::end   (Public Function)
+
+std::vector::vector   (Explicit Public Function)
+
+std::vector::~vector   (Public Function)
+
+test   (Local Object)
+   [main.cpp, 7]
+
+test   (Local Object)
+   [main.cpp, 7]
+
+test   (Local Object)
+   [main.cpp, 23]
+
+TestClass   (Class)
+   [main.cpp, 9]
+
+TestClass::Function   (Public Function)
+   [main.cpp, 15]
+                                                                     Page 7
+                         Data Dictionary Summary Report
+===============================================================================
+
+TestClass::TestClass   (Public Function)
+   [main.cpp, 11]
+
+TestClass::TestClass   (Public Function)
+   [main.cpp, 9]
+
+TestClass::TestClass   (Public Function)
+   [main.cpp, 9]
+
+TestClass::~TestClass   (Public Function)
+   [main.cpp, 9]
+
+TestFunction   (Function)
+   [main.cpp, 5]
+
+TRUE   (Macro)
+
+ul_reason_for_call   (Parameter)
+   [dllmain.cpp, 5]
+
+vector   (Local Object)
+   [main.cpp, 27]
+
+WIN32_LEAN_AND_MEAN   (Macro)
+   [stdafx.h, 10]
+
+WINAPI   (Macro)
+
+WrapperFunction   (Function)
+   [main.cpp, 10]
+
+x   (Parameter)
+   [main.cpp, 5]
+                                                                     Page 8
+                              File Contents Report
+===============================================================================
+
+AliveSampleCode.cpp
+  Global Functions
+    HeaderDefineFunction
+    HeaderDefineFunction2
+
+AliveSampleCode.h
+  Global Functions
+    HeaderDefineFunction
+    HeaderDefineFunction2
+
+AliveSampleCode2.cpp
+  Global Functions
+    AliveFunction2
+    AliveFunction2_2
+
+AliveSampleCode4.h
+  Global Functions
+    AliveFunction4
+
+AliveSampleCode7.cpp
+  Local Methods
+    AliveSampleCode7::AliveFunction7
+
+AliveSampleCode7.h
+  Classes
+    AliveSampleCode7
+  Local Methods
+    AliveSampleCode7::AliveFunction7
+
+AliveSampleCode9.h
+  Local Functions
+    AliveFunction9
+
+dllmain.cpp
+  Global Functions
+    DllMain
+
+main.cpp
+  Types
+    FUNC
+  Global Variables
+    DllFunctionTest
+    hModule
+  Global Functions
+    main
+
+main.cpp
+  Global Functions
+    main
+
+main.cpp
+  Global Functions
+    main
+    TestFunction
+    WrapperFunction
+
+main.cpp
+  Global Functions
+    main
+
+main.cpp
+  Global Functions
+    main
+
+main.cpp
+  Global Variables
+    a
+    functionPointer
+  Global Functions
+    Exponentiation
+    main
+
+main.cpp
+  Global Functions
+    main
+
+main.cpp
+  Global Functions
+    main
+
+main.cpp
+  Classes
+    ClassObject
+  Global Variables
+    object
+    objectPointer
+  Global Functions
+    main
+  Global Methods
+    ClassObject::Print
+    ClassObject::PrintPointer
+
+main.cpp
+  Global Functions
+    main
+
+main.cpp
+  Classes
+    Child
+    Parent
+  Global Variables
+    i
+    polymorphism
+  Global Functions
+    main
+  Global Methods
+    Child::Print
+    Parent::Print
+
+main.cpp
+  Global Variables
+    test
+  Global Functions
+    main
+
+main.cpp
+  Global Variables
+    test
+  Global Functions
+    main
+
+main.cpp
+  Classes
+    TestClass
+  Global Variables
+    test
+    vector
+  Global Functions
+    main
+  Global Methods
+    TestClass::Function
+    TestClass::TestClass
+
+main.cpp
+  Global Functions
+    AliveFunction1
+    AliveFunction1_2
+    main
+
+maincpp.cpp
+  Classes
+    StaticMemmber
+  Global Variables
+    functionPointer
+  Global Functions
+    main
+  Local Methods
+    StaticMemmber::Print
+
+stdafx.cpp
+
+stdafx.h
+
+targetver.h
+
+TestDll.cpp
+  Global Functions
+    DllFunctionTest
+
+TestDll.h
+  Global Functions
+    DllFunctionTest
+                                                                     Page 9
+                      Program Unit Cross Reference Report
+===============================================================================
+
+AliveFunction1   (Function)
+  Declared as: void
+    Define [main.cpp, 9]             main.cpp
+
+AliveFunction1_2   (Function)
+  Declared as: void
+    Define [main.cpp, 14]            main.cpp
+
+AliveFunction2   (Function)
+  Declared as: void
+    Define [AliveSampleCode2.cpp, 3]   AliveSampleCode2.cpp
+    Declare [main.cpp, 9]            main.cpp
+
+AliveFunction2_2   (Function)
+  Declared as: void
+    Define [AliveSampleCode2.cpp, 8]   AliveSampleCode2.cpp
+
+AliveFunction4   (Function)
+  Declared as: void
+    Define [AliveSampleCode4.h, 5]   AliveSampleCode4.h
+    Call [main.cpp, 7]               main
+
+AliveFunction9   (Static Function)
+  Declared as: void
+    Define [AliveSampleCode9.h, 4]   AliveSampleCode9.h
+    Call [main.cpp, 7]               main
+
+AliveSampleCode7::AliveFunction7   (Public Static Function)
+  Declared as: void
+    Define [AliveSampleCode7.cpp, 4]   AliveSampleCode7
+    Declare [AliveSampleCode7.h, 6]   AliveSampleCode7
+    Call [main.cpp, 7]               main
+
+Child::Child   (Public Function)
+  Declared as: void
+    Declare [main.cpp, 14]           Child
+    Call [main.cpp, 26]              main
+
+Child::Child   (Public Function)
+  Declared as: void
+    Declare [main.cpp, 14]           Child
+
+Child::Child   (Public Function)
+  Declared as: void
+    Declare [main.cpp, 14]           Child
+
+Child::operator=   (Public Function)
+  Declared as: Child &
+    Declare [main.cpp, 14]           Child
+
+Child::operator=   (Public Function)
+  Declared as: Child &
+    Declare [main.cpp, 14]           Child
+                                                                     Page 10
+                      Program Unit Cross Reference Report
+===============================================================================
+
+Child::Print   (Public Virtual Function)
+  Declared as: void
+    Define [main.cpp, 17]            Child
+    Virtual Call [main.cpp, 30]      main
+
+Child::~Child   (Public Function)
+  Declared as: void
+    Declare [main.cpp, 14]           Child
+
+ClassObject::ClassObject   (Public Function)
+  Declared as: void
+    Declare [main.cpp, 5]            ClassObject
+    Call [main.cpp, 23]              main
+    Call [main.cpp, 26]              main
+
+ClassObject::ClassObject   (Public Function)
+  Declared as: void
+    Declare [main.cpp, 5]            ClassObject
+
+ClassObject::ClassObject   (Public Function)
+  Declared as: void
+    Declare [main.cpp, 5]            ClassObject
+
+ClassObject::Print   (Public Function)
+  Declared as: void
+    Define [main.cpp, 8]             ClassObject
+    Call [main.cpp, 24]              main
+
+ClassObject::PrintPointer   (Public Function)
+  Declared as: void
+    Define [main.cpp, 14]            ClassObject
+    Call [main.cpp, 27]              main
+
+DllFunctionTest   (Function)
+  Declared as: void
+    Define [TestDll.cpp, 10]         TestDll.cpp
+    Declare [TestDll.h, 2]           TestDll.h
+    Call [main.cpp, 6]               main
+
+DllMain   (Function)
+  Declared as: BOOL
+    Define [dllmain.cpp, 4]          dllmain.cpp
+
+Exponentiation   (Function)
+  Declared as: int
+    Define [main.cpp, 5]             main.cpp
+    Pointer [main.cpp, 12]           main
+    Call [main.cpp, 12]              functionPointer
+
+GetProcAddress   (Function)
+  Declared as: FARPROC
+    Call [main.cpp, 18]              main
+
+HeaderDefineFunction   (Function)
+  Declared as: void
+                                                                     Page 11
+                      Program Unit Cross Reference Report
+===============================================================================
+    Define [AliveSampleCode.cpp, 4]   AliveSampleCode.cpp
+    Call [main.cpp, 7]               main
+    Declare [AliveSampleCode.h, 3]   AliveSampleCode.h
+
+HeaderDefineFunction2   (Function)
+  Declared as: void
+    Define [AliveSampleCode.cpp, 9]   AliveSampleCode.cpp
+    Declare [AliveSampleCode.h, 5]   AliveSampleCode.h
+
+LoadLibraryA   (Function)
+  Declared as: HMODULE
+    Call [main.cpp, 10]              main
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 7]             main.cpp
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 5]             main.cpp
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 16]            main.cpp
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 5]             main.cpp
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 4]             main.cpp
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 10]            main.cpp
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 5]             main.cpp
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 3]             main.cpp
+
+main   (Function)
+  Declared as: int
+    Define [maincpp.cpp, 15]         maincpp.cpp
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 21]            main.cpp
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 5]             main.cpp
+                                                                     Page 12
+                      Program Unit Cross Reference Report
+===============================================================================
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 23]            main.cpp
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 5]             main.cpp
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 5]             main.cpp
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 22]            main.cpp
+
+main   (Function)
+  Declared as: int
+    Define [main.cpp, 3]             main.cpp
+
+operator delete   (Function)
+  Declared as: void
+    Call [main.cpp, 31]              main
+
+operator new   (Function)
+  Declared as: void *
+    Call [main.cpp, 26]              main
+    Call [main.cpp, 25]              main
+    Call [main.cpp, 26]              main
+
+Parent::operator=   (Public Function)
+  Declared as: Parent &
+    Declare [main.cpp, 5]            Parent
+
+Parent::operator=   (Public Function)
+  Declared as: Parent &
+    Declare [main.cpp, 5]            Parent
+
+Parent::Parent   (Public Function)
+  Declared as: void
+    Declare [main.cpp, 5]            Parent
+    Call [main.cpp, 25]              main
+
+Parent::Parent   (Public Function)
+  Declared as: void
+    Declare [main.cpp, 5]            Parent
+
+Parent::Parent   (Public Function)
+  Declared as: void
+    Declare [main.cpp, 5]            Parent
+
+Parent::Print   (Public Virtual Function)
+  Declared as: void
+    Define [main.cpp, 8]             Parent
+    Virtual Call [main.cpp, 30]      main
+                                                                     Page 13
+                      Program Unit Cross Reference Report
+===============================================================================
+
+Parent::~Parent   (Public Function)
+  Declared as: void
+    Declare [main.cpp, 5]            Parent
+    Call [main.cpp, 31]              main
+
+printf   (Function)
+  Declared as: int
+    Call [AliveSampleCode7.cpp, 6]   AliveSampleCode7::AliveFunction7
+    Call [AliveSampleCode9.h, 6]     AliveFunction9
+    Call [AliveSampleCode.cpp, 6]    HeaderDefineFunction
+    Call [AliveSampleCode.cpp, 11]   HeaderDefineFunction2
+    Call [AliveSampleCode2.cpp, 5]   AliveFunction2
+    Call [AliveSampleCode2.cpp, 10]   AliveFunction2_2
+    Call [AliveSampleCode4.h, 7]     AliveFunction4
+    Call [main.cpp, 11]              AliveFunction1
+    Call [main.cpp, 16]              AliveFunction1_2
+
+StaticMemmber::Print   (Public Static Function)
+  Declared as: void
+    Define [maincpp.cpp, 8]          StaticMemmber
+    Pointer [maincpp.cpp, 17]        main
+    Call [maincpp.cpp, 17]           functionPointer
+
+std::_Vector_iterator::_Vector_iterator   (Public Function)
+  Declared as: void
+    Call [main.cpp, 28]              main
+    Call [main.cpp, 28]              main
+
+std::basic_ostream::operator<<   (Public Function)
+  Declared as: basic_ostream<_Elem, _Traits> &
+    Call [main.cpp, 7]               TestFunction
+    Call [main.cpp, 12]              WrapperFunction
+    Call [main.cpp, 16]              main
+    Call [maincpp.cpp, 10]           StaticMemmber::Print
+    Call [main.cpp, 10]              ClassObject::Print
+    Call [main.cpp, 16]              ClassObject::PrintPointer
+    Call [main.cpp, 19]              Child::Print
+    Call [main.cpp, 10]              Parent::Print
+    Call [TestDll.cpp, 12]           DllFunctionTest
+    Call [main.cpp, 17]              TestClass::Function
+
+std::basic_ostream::operator<<   (Public Function)
+  Declared as: basic_ostream<_Elem, _Traits> &
+    Call [main.cpp, 16]              main
+
+std::endl   (Function Template)
+  Declared as: basic_ostream<_Elem, _Traits> &
+    Pointer [main.cpp, 7]            TestFunction
+    Pointer [main.cpp, 12]           WrapperFunction
+    Pointer [main.cpp, 16]           main
+    Pointer [maincpp.cpp, 10]        StaticMemmber::Print
+    Pointer [main.cpp, 10]           ClassObject::Print
+    Pointer [main.cpp, 16]           ClassObject::PrintPointer
+    Pointer [main.cpp, 19]           Child::Print
+    Pointer [main.cpp, 10]           Parent::Print
+                                                                     Page 14
+                      Program Unit Cross Reference Report
+===============================================================================
+    Pointer [TestDll.cpp, 12]        DllFunctionTest
+    Pointer [main.cpp, 17]           TestClass::Function
+
+std::for_each   (Function Template)
+  Declared as: _Fn
+    Call [main.cpp, 28]              main
+
+std::mem_fun   (Function Template)
+  Declared as: mem_fun_t<_Result, _Ty>
+    Call [main.cpp, 24]              main
+
+std::mem_fun<void, TestClass>   (Function)
+  Declared as: mem_fun_t<void, TestClass>
+
+std::mem_fun_ref   (Function Template)
+  Declared as: mem_fun_ref_t<_Result, _Ty>
+    Call [main.cpp, 28]              main
+
+std::mem_fun_ref<void, TestClass>   (Function)
+  Declared as: mem_fun_ref_t<void, TestClass>
+
+std::mem_fun_ref_t::mem_fun_ref_t   (Public Function)
+  Declared as: void
+    Call [main.cpp, 28]              main
+
+std::mem_fun_t::operator()   (Public Const Function)
+  Declared as: _Result
+    Call [main.cpp, 24]              main
+
+std::operator<<   (Function Template)
+  Declared as: basic_ostream<char, _Traits> &
+    Call [main.cpp, 7]               TestFunction
+    Call [main.cpp, 12]              WrapperFunction
+    Call [maincpp.cpp, 10]           StaticMemmber::Print
+    Call [main.cpp, 10]              ClassObject::Print
+    Call [main.cpp, 16]              ClassObject::PrintPointer
+    Call [main.cpp, 19]              Child::Print
+    Call [main.cpp, 10]              Parent::Print
+    Call [TestDll.cpp, 12]           DllFunctionTest
+    Call [main.cpp, 17]              TestClass::Function
+
+std::vector::begin   (Public Function)
+  Declared as: std::vector::iterator
+    Call [main.cpp, 28]              main
+
+std::vector::end   (Public Function)
+  Declared as: std::vector::iterator
+    Call [main.cpp, 28]              main
+
+std::vector::vector   (Explicit Public Function)
+  Declared as: void
+    Call [main.cpp, 27]              main
+
+std::vector::~vector   (Public Function)
+  Declared as: void
+    Call [main.cpp, 32]              main
+                                                                     Page 15
+                      Program Unit Cross Reference Report
+===============================================================================
+
+TestClass::Function   (Public Function)
+  Declared as: void
+    Define [main.cpp, 15]            TestClass
+    Pointer [main.cpp, 24]           main
+    Pointer [main.cpp, 28]           main
+
+TestClass::TestClass   (Public Function)
+  Declared as: void
+    Define [main.cpp, 11]            TestClass
+    Call [main.cpp, 23]              main
+
+TestClass::TestClass   (Public Function)
+  Declared as: void
+    Declare [main.cpp, 9]            TestClass
+
+TestClass::TestClass   (Public Function)
+  Declared as: void
+    Declare [main.cpp, 9]            TestClass
+
+TestClass::~TestClass   (Public Function)
+  Declared as: void
+    Declare [main.cpp, 9]            TestClass
+    Call [main.cpp, 32]              main
+
+TestFunction   (Function)
+  Declared as: void
+    Define [main.cpp, 5]             main.cpp
+    Call [main.cpp, 13]              WrapperFunction
+
+WrapperFunction   (Function)
+  Declared as: void
+    Define [main.cpp, 10]            main.cpp
+    Call [main.cpp, 18]              main
+                                                                     Page 16
+                         Object Cross Reference Report
+===============================================================================
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: int
+    Declare [main.cpp, 12]           functionPointer
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const ClassObject &
+    Declare [main.cpp, 5]            ClassObject::ClassObject
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: ClassObject &&
+    Declare [main.cpp, 5]            ClassObject::ClassObject
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const Child &
+    Declare [main.cpp, 14]           Child::Child
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: Child &&
+    Declare [main.cpp, 14]           Child::Child
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const Child &
+    Declare [main.cpp, 14]           Child::operator=
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: Child &&
+    Declare [main.cpp, 14]           Child::operator=
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const Parent &
+    Declare [main.cpp, 5]            Parent::Parent
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: Parent &&
+    Declare [main.cpp, 5]            Parent::Parent
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const Parent &
+    Declare [main.cpp, 5]            Parent::operator=
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: Parent &&
+    Declare [main.cpp, 5]            Parent::operator=
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: const TestClass &
+    Declare [main.cpp, 9]            TestClass::TestClass
+
+[unnamed]   (Unresolved Parameter)
+  Declared as: TestClass &&
+    Declare [main.cpp, 9]            TestClass::TestClass
+
+_Pm   (Unresolved Parameter)
+  Declared as: void (TestClass::*)()
+                                                                     Page 17
+                         Object Cross Reference Report
+===============================================================================
+
+_Pm   (Unresolved Parameter)
+  Declared as: void (TestClass::*)()
+
+a   (Local Object)
+  Declared as: int=3
+    Define [main.cpp, 14]            main
+    Init [main.cpp, 14]              main
+    Use [main.cpp, 16]               main
+
+DllFunctionTest   (Local Object)
+  Declared as: FUNC=(FUNC)GetProcAddress(hModule, "DllFunctionTest")
+    Define [main.cpp, 18]            main
+    Init [main.cpp, 18]              main
+    Deref Call [main.cpp, 21]        main
+
+functionPointer   (Local Object)
+  Declared as: int (*)(int)=Exponentiation
+    Define [main.cpp, 12]            main
+    Init [main.cpp, 12]              main
+    Deref Call [main.cpp, 16]        main
+
+functionPointer   (Local Object)
+  Declared as: void (*)()=StaticMemmber::Print
+    Define [maincpp.cpp, 17]         main
+    Init [maincpp.cpp, 17]           main
+    Deref Call [maincpp.cpp, 19]     main
+
+hModule   (Unresolved Parameter)
+  Declared as: HMODULE
+
+hModule   (Local Object)
+  Declared as: HMODULE=LoadLibraryA("TestDll.dll")
+    Define [main.cpp, 10]            main
+    Init [main.cpp, 10]              main
+    Use [main.cpp, 12]               main
+    Use [main.cpp, 18]               main
+
+hModule   (Parameter)
+  Declared as: HMODULE
+    Define [dllmain.cpp, 4]          DllMain
+
+i   (Local Object)
+  Declared as: int=0
+    Define [main.cpp, 28]            main
+    Init [main.cpp, 28]              main
+    Use [main.cpp, 28]               main
+    Use [main.cpp, 30]               main
+    Use [main.cpp, 31]               main
+    Use [main.cpp, 28]               main
+    Modify [main.cpp, 28]            main
+
+lpReserved   (Parameter)
+  Declared as: LPVOID
+    Define [dllmain.cpp, 6]          DllMain
+                                                                     Page 18
+                         Object Cross Reference Report
+===============================================================================
+
+object   (Local Object)
+  Declared as: ClassObject=
+    Define [main.cpp, 23]            main
+    Init [main.cpp, 23]              main
+    Use [main.cpp, 24]               main
+
+objectPointer   (Local Object)
+  Declared as: ClassObject *=new ClassObject()
+    Define [main.cpp, 26]            main
+    Init [main.cpp, 26]              main
+    Use [main.cpp, 27]               main
+
+polymorphism   (Local Object)
+  Declared as: Parent *[2]={new Parent, new Child}
+    Define [main.cpp, 25]            main
+    Init [main.cpp, 25]              main
+    Use [main.cpp, 28]               main
+    Deref Use [main.cpp, 28]         main
+    Deref Use [main.cpp, 30]         main
+    Deref Use [main.cpp, 31]         main
+
+std::cout   (Global Object)
+  Declared as: std::ostream
+    Use [main.cpp, 7]                TestFunction
+    Use [main.cpp, 12]               WrapperFunction
+    Use [main.cpp, 16]               main
+    Use [maincpp.cpp, 10]            StaticMemmber::Print
+    Use [main.cpp, 10]               ClassObject::Print
+    Use [main.cpp, 16]               ClassObject::PrintPointer
+    Use [main.cpp, 19]               Child::Print
+    Use [main.cpp, 10]               Parent::Print
+    Use [TestDll.cpp, 12]            DllFunctionTest
+    Use [main.cpp, 17]               TestClass::Function
+
+test   (Local Object)
+  Declared as: int
+    Define [main.cpp, 7]             main
+
+test   (Local Object)
+  Declared as: int
+    Define [main.cpp, 7]             main
+
+test   (Local Object)
+  Declared as: TestClass=
+    Define [main.cpp, 23]            main
+    Init [main.cpp, 23]              main
+    Addr Use [main.cpp, 24]          main
+
+ul_reason_for_call   (Parameter)
+  Declared as: DWORD
+    Define [dllmain.cpp, 5]          DllMain
+    Use [dllmain.cpp, 9]             DllMain
+
+vector   (Local Object)
+  Declared as: vector<TestClass>=3
+                                                                     Page 19
+                         Object Cross Reference Report
+===============================================================================
+    Define [main.cpp, 27]            main
+    Init [main.cpp, 27]              main
+    Use [main.cpp, 28]               main
+    Use [main.cpp, 28]               main
+
+x   (Parameter)
+  Declared as: int
+    Define [main.cpp, 5]             Exponentiation
+    Return [main.cpp, 7]             Exponentiation
+    Return [main.cpp, 7]             Exponentiation
+                                                                     Page 20
+                          Type Cross Reference Report
+===============================================================================
+
+AliveSampleCode7   (Class)
+    Define [AliveSampleCode7.h, 3]   AliveSampleCode7.h
+
+Child   (Class)
+    Define [main.cpp, 14]            main.cpp
+
+ClassObject   (Class)
+    Define [main.cpp, 5]             main.cpp
+    Type [main.cpp, 23]              object
+    Type [main.cpp, 26]              objectPointer
+
+DWORD   (Typedef)
+  Declared as: unsigned long
+    Type [dllmain.cpp, 5]            ul_reason_for_call
+
+FUNC   (Typedef)
+  Declared as: void (*)()
+    Define [main.cpp, 5]             main.cpp
+    Cast [main.cpp, 18]              main
+    Type [main.cpp, 18]              DllFunctionTest
+
+HMODULE   (Typedef)
+  Declared as: HINSTANCE
+    Type [main.cpp, 10]              hModule
+    Type [dllmain.cpp, 4]            hModule
+
+LPVOID   (Typedef)
+  Declared as: void *
+    Type [dllmain.cpp, 6]            lpReserved
+
+Parent   (Class)
+    Define [main.cpp, 5]             main.cpp
+    Public [main.cpp, 14]            Child
+    Type [main.cpp, 25]              polymorphism
+
+StaticMemmber   (Class)
+    Define [maincpp.cpp, 5]          maincpp.cpp
+
+std::_Vector_iterator<std::_Vector_val<std::_Simple_types<TestClass> > >   (Class)
+
+std::basic_ostream   (Class Template)
+
+std::mem_fun_ref_t<void, TestClass>   (Class)
+
+std::mem_fun_t   (Class Template)
+
+std::vector   (Class Template)
+    Type [main.cpp, 27]              vector
+
+TestClass   (Class)
+    Define [main.cpp, 9]             main.cpp
+    Type [main.cpp, 23]              test
+    Type [main.cpp, 27]              vector
+                                                                     Page 21
+                          Macro Cross Reference Report
+===============================================================================
+
+APIENTRY
+  Declared as: WINAPI
+    Use [dllmain.cpp, 4]             DllMain
+
+DLL_PROCESS_ATTACH
+  Declared as: 1
+    Use [dllmain.cpp, 11]            DllMain
+
+DLL_PROCESS_DETACH
+  Declared as: 0
+    Use [dllmain.cpp, 14]            DllMain
+
+DLL_THREAD_ATTACH
+  Declared as: 2
+    Use [dllmain.cpp, 12]            DllMain
+
+DLL_THREAD_DETACH
+  Declared as: 3
+    Use [dllmain.cpp, 13]            DllMain
+
+LoadLibrary
+  Declared as: LoadLibraryA
+    Use [main.cpp, 10]               main
+
+NULL
+  Declared as: 0
+    Use [main.cpp, 12]               main
+
+TRUE
+  Declared as: 1
+    Use [dllmain.cpp, 17]            DllMain
+
+WIN32_LEAN_AND_MEAN
+    Define [stdafx.h, 10]            stdafx.h
+
+WINAPI
+  Declared as: __stdcall
+    Use [dllmain.cpp, 4]             DllMain
+                                                                     Page 22
+                      Include File Cross Reference Report
+===============================================================================
+
+algorithm
+    Include [main.cpp, 1]            main.cpp
+
+AliveSampleCode.h
+    Include [main.cpp, 2]            main.cpp
+    Include [AliveSampleCode.cpp, 2]   AliveSampleCode.cpp
+
+AliveSampleCode4.h
+    Include [main.cpp, 2]            main.cpp
+
+AliveSampleCode7.h
+    Include [AliveSampleCode7.cpp, 2]   AliveSampleCode7.cpp
+    Include [main.cpp, 2]            main.cpp
+
+AliveSampleCode9.h
+    Include [main.cpp, 2]            main.cpp
+
+functional
+    Include [main.cpp, 5]            main.cpp
+
+iostream
+    Include [main.cpp, 1]            main.cpp
+    Include [main.cpp, 1]            main.cpp
+    Include [main.cpp, 1]            main.cpp
+    Include [main.cpp, 1]            main.cpp
+    Include [maincpp.cpp, 1]         maincpp.cpp
+    Include [main.cpp, 1]            main.cpp
+    Include [main.cpp, 1]            main.cpp
+    Include [TestDll.cpp, 6]         TestDll.cpp
+    Include [main.cpp, 1]            main.cpp
+    Include [main.cpp, 1]            main.cpp
+    Include [main.cpp, 2]            main.cpp
+
+libloaderapi.h
+
+minwindef.h
+
+sdkddkver.h
+    Include [targetver.h, 8]         targetver.h
+
+stdafx.h
+    Include [stdafx.cpp, 1]          stdafx.cpp
+    Include [TestDll.cpp, 4]         TestDll.cpp
+    Include [dllmain.cpp, 2]         dllmain.cpp
+
+stddef.h
+
+stdio.h
+    Include [main.cpp, 1]            main.cpp
+    Include [main.cpp, 1]            main.cpp
+    Include [AliveSampleCode7.cpp, 1]   AliveSampleCode7.cpp
+    Include [main.cpp, 1]            main.cpp
+    Include [main.cpp, 1]            main.cpp
+    Include [AliveSampleCode9.h, 2]   AliveSampleCode9.h
+    Include [main.cpp, 1]            main.cpp
+                                                                     Page 23
+                      Include File Cross Reference Report
+===============================================================================
+    Include [AliveSampleCode.cpp, 1]   AliveSampleCode.cpp
+    Include [AliveSampleCode2.cpp, 1]   AliveSampleCode2.cpp
+    Include [AliveSampleCode4.h, 3]   AliveSampleCode4.h
+    Include [main.cpp, 1]            main.cpp
+
+string
+    Include [main.cpp, 4]            main.cpp
+
+targetver.h
+    Include [stdafx.h, 8]            stdafx.h
+
+TestDll.h
+    Include [main.cpp, 2]            main.cpp
+    Include [main.cpp, 2]            main.cpp
+    Include [TestDll.cpp, 5]         TestDll.cpp
+    Include [main.cpp, 2]            main.cpp
+    Include [main.cpp, 2]            main.cpp
+
+vcruntime_new.h
+
+vector
+    Include [main.cpp, 3]            main.cpp
+
+Windows.h
+    Include [main.cpp, 3]            main.cpp
+    Include [stdafx.h, 12]           stdafx.h
+    Include [main.cpp, 3]            main.cpp
+    Include [main.cpp, 3]            main.cpp
+
+winnt.h
+                                                                     Page 24
+                         Simple Invocation Tree Report
+===============================================================================
+
+AliveFunction1
+| printf
+
+AliveFunction1_2
+| printf
+
+AliveFunction2
+| printf
+
+AliveFunction2_2
+| printf
+
+AliveFunction4
+| printf
+
+AliveFunction9
+| printf
+
+AliveSampleCode7::AliveFunction7
+| printf
+
+Child::Print
+| std::basic_ostream::operator<<
+| std::operator<<
+| std::endl
+
+ClassObject::Print
+| std::basic_ostream::operator<<
+| std::operator<<
+| std::endl
+
+ClassObject::PrintPointer
+| std::basic_ostream::operator<<
+| std::operator<<
+| std::endl
+
+DllFunctionTest
+| std::basic_ostream::operator<<
+| std::operator<<
+| std::endl
+
+HeaderDefineFunction
+| printf
+
+HeaderDefineFunction2
+| printf
+
+main
+| LoadLibraryA
+| GetProcAddress
+
+main
+| HeaderDefineFunction
+
+main
+                                                                     Page 25
+                         Simple Invocation Tree Report
+===============================================================================
+| WrapperFunction
+
+main
+| AliveFunction9
+
+main
+| DllFunctionTest
+
+main
+| Exponentiation
+| std::basic_ostream::operator<<
+| std::basic_ostream::operator<<
+| std::endl
+
+main
+| AliveFunction4
+
+main
+| StaticMemmber::Print
+
+main
+| ClassObject::ClassObject
+| ClassObject::Print
+| operator new
+| ClassObject::PrintPointer
+
+main
+| AliveSampleCode7::AliveFunction7
+
+main
+| operator new
+| Parent::Parent
+| Child::Child
+| Parent::Print  (Virtual)
+| Child::Print  (Virtual)
+| operator delete
+| Parent::~Parent
+
+main
+| TestClass::~TestClass
+| std::vector::~vector
+| TestClass::TestClass
+| std::mem_fun_t::operator()
+| std::mem_fun
+| TestClass::Function
+| std::vector::vector
+| std::for_each
+| std::_Vector_iterator::_Vector_iterator
+| std::vector::begin
+| std::vector::end
+| std::mem_fun_ref_t::mem_fun_ref_t
+| std::mem_fun_ref
+
+Parent::Print
+| std::basic_ostream::operator<<
+                                                                     Page 26
+                         Simple Invocation Tree Report
+===============================================================================
+| std::operator<<
+| std::endl
+
+StaticMemmber::Print
+| std::basic_ostream::operator<<
+| std::operator<<
+| std::endl
+
+TestClass::Function
+| std::basic_ostream::operator<<
+| std::operator<<
+| std::endl
+
+TestFunction
+| std::basic_ostream::operator<<
+| std::operator<<
+| std::endl
+
+WrapperFunction
+| std::basic_ostream::operator<<
+| std::operator<<
+| std::endl
+| TestFunction
+                                                                     Page 27
+                         Program Unit Complexity Report
+===============================================================================
+
+AliveFunction1
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+AliveFunction1_2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+AliveFunction2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+AliveFunction2_2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+AliveFunction4
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+AliveFunction9
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+AliveSampleCode7::AliveFunction7
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+                                                                     Page 28
+                         Program Unit Complexity Report
+===============================================================================
+
+Child::Print
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+ClassObject::Print
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+ClassObject::PrintPointer
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+DllFunctionTest
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+DllMain
+   Cyclomatic:                        5
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 5
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+
+Exponentiation
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+HeaderDefineFunction
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+                                                                     Page 29
+                         Program Unit Complexity Report
+===============================================================================
+
+HeaderDefineFunction2
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        2
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 2
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+                                                                     Page 30
+                         Program Unit Complexity Report
+===============================================================================
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        2
+   Modified Cyclomatic:               2
+   Strict Cyclomatic:                 2
+   Essential:                         1
+   Max Nesting:                       1
+   Count Path:                        2
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+                                                                     Page 31
+                         Program Unit Complexity Report
+===============================================================================
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+main
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+Parent::Print
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+StaticMemmber::Print
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+TestClass::Function
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+TestClass::TestClass
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+                                                                     Page 32
+                         Program Unit Complexity Report
+===============================================================================
+
+TestFunction
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+
+WrapperFunction
+   Cyclomatic:                        1
+   Modified Cyclomatic:               1
+   Strict Cyclomatic:                 1
+   Essential:                         1
+   Max Nesting:                       0
+   Count Path:                        1
+   Count Path Log:                        0
+                                                                     Page 33
+                         Project Metrics Summary Report
+===============================================================================
+Classes:                      6
+Files:                       35
+Program Units:               37
+Lines:                      398
+Lines Blank:                 89
+Lines Code:                 240
+Lines Comment:               17
+Lines Inactive:               0
+Executable Statements:       76
+Declarative Statements:      96
+Ratio Comment/Code:        0.07
+                                                                     Page 34
+                              Program Unit Metrics
+===============================================================================
+
+AliveFunction1 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+AliveFunction1_2 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+AliveFunction2 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+AliveFunction2_2 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+AliveFunction4 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+                                                                     Page 35
+                              Program Unit Metrics
+===============================================================================
+
+AliveFunction9 (Static Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+AliveSampleCode7::AliveFunction7 (Public Static Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+Child::Print (Public Virtual Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+ClassObject::Print (Public Function)
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+ClassObject::PrintPointer (Public Function)
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+                                                                     Page 36
+                              Program Unit Metrics
+===============================================================================
+
+DllFunctionTest (Function)
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  5
+   Execution Statements:    2
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+DllMain (Function)
+   Lines:                   15
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              15
+   Inactive Lines:          0
+   Executable Code Lines:   6
+   Declarative Code Lines:  1
+   Execution Statements:    7
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+Exponentiation (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+HeaderDefineFunction (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+HeaderDefineFunction2 (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+                                                                     Page 37
+                              Program Unit Metrics
+===============================================================================
+
+main (Function)
+   Lines:                   18
+   Comment Lines:           3
+   Blank Lines:             4
+   Code Lines:              11
+   Inactive Lines:          0
+   Executable Code Lines:   10
+   Declarative Code Lines:  3
+   Execution Statements:    4
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.27
+
+main (Function)
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+main (Function)
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+main (Function)
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+main (Function)
+   Lines:                   6
+   Comment Lines:           0
+   Blank Lines:             1
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+                                                                     Page 38
+                              Program Unit Metrics
+===============================================================================
+
+main (Function)
+   Lines:                   9
+   Comment Lines:           0
+   Blank Lines:             2
+   Code Lines:              7
+   Inactive Lines:          0
+   Executable Code Lines:   4
+   Declarative Code Lines:  3
+   Execution Statements:    2
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+
+main (Function)
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+main (Function)
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+main (Function)
+   Lines:                   7
+   Comment Lines:           0
+   Blank Lines:             1
+   Code Lines:              6
+   Inactive Lines:          0
+   Executable Code Lines:   3
+   Declarative Code Lines:  2
+   Execution Statements:    2
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.00
+
+main (Function)
+   Lines:                   10
+   Comment Lines:           1
+   Blank Lines:             2
+   Code Lines:              8
+   Inactive Lines:          0
+   Executable Code Lines:   5
+   Declarative Code Lines:  3
+   Execution Statements:    3
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.13
+                                                                     Page 39
+                              Program Unit Metrics
+===============================================================================
+
+main (Function)
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+main (Function)
+   Lines:                   13
+   Comment Lines:           0
+   Blank Lines:             2
+   Code Lines:              11
+   Inactive Lines:          0
+   Executable Code Lines:   6
+   Declarative Code Lines:  4
+   Execution Statements:    6
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+
+main (Function)
+   Lines:                   7
+   Comment Lines:           0
+   Blank Lines:             1
+   Code Lines:              6
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  2
+   Execution Statements:    1
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.00
+
+main (Function)
+   Lines:                   7
+   Comment Lines:           0
+   Blank Lines:             1
+   Code Lines:              6
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  2
+   Execution Statements:    1
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.00
+
+main (Function)
+   Lines:                   11
+   Comment Lines:           0
+   Blank Lines:             3
+   Code Lines:              8
+   Inactive Lines:          0
+   Executable Code Lines:   6
+   Declarative Code Lines:  3
+   Execution Statements:    4
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+                                                                     Page 40
+                              Program Unit Metrics
+===============================================================================
+
+main (Function)
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+Parent::Print (Public Virtual Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+StaticMemmber::Print (Public Static Function)
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+TestClass::Function (Public Function)
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+TestClass::TestClass (Public Function)
+   Lines:                   3
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              3
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  1
+   Execution Statements:    0
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+                                                                     Page 41
+                              Program Unit Metrics
+===============================================================================
+
+TestFunction (Function)
+   Lines:                   4
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+
+WrapperFunction (Function)
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             0
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+                                                                     Page 42
+                                  File Metrics
+===============================================================================
+
+AliveSampleCode.cpp
+   Lines:                   12
+   Comment Lines:           0
+   Blank Lines:             2
+   Preprocessor Lines:      2
+   Code Lines:              8
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  2
+   Execution Statements:    2
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+   Units                    2
+
+AliveSampleCode.h
+   Lines:                   5
+   Comment Lines:           0
+   Blank Lines:             2
+   Preprocessor Lines:      1
+   Code Lines:              2
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+   Units                    0
+
+AliveSampleCode2.cpp
+   Lines:                   11
+   Comment Lines:           0
+   Blank Lines:             2
+   Preprocessor Lines:      1
+   Code Lines:              8
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  2
+   Execution Statements:    2
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+   Units                    2
+
+AliveSampleCode4.h
+   Lines:                   8
+   Comment Lines:           0
+   Blank Lines:             2
+   Preprocessor Lines:      2
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    1
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.00
+   Units                    1
+                                                                     Page 43
+                                  File Metrics
+===============================================================================
+
+AliveSampleCode7.cpp
+   Lines:                   7
+   Comment Lines:           0
+   Blank Lines:             1
+   Preprocessor Lines:      2
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  1
+   Execution Statements:    1
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.00
+   Units                    1
+
+AliveSampleCode7.h
+   Lines:                   9
+   Comment Lines:           0
+   Blank Lines:             2
+   Preprocessor Lines:      1
+   Code Lines:              6
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  4
+   Ratio Comment/Code:      0.00
+   Units                    0
+
+AliveSampleCode9.h
+   Lines:                   7
+   Comment Lines:           0
+   Blank Lines:             1
+   Preprocessor Lines:      2
+   Code Lines:              4
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    1
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.00
+   Units                    1
+
+dllmain.cpp
+   Lines:                   19
+   Comment Lines:           1
+   Blank Lines:             2
+   Preprocessor Lines:      1
+   Code Lines:              15
+   Inactive Lines:          0
+   Executable Code Lines:   7
+   Declarative Code Lines:  1
+   Execution Statements:    7
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.07
+   Units                    1
+                                                                     Page 44
+                                  File Metrics
+===============================================================================
+
+main.cpp
+   Lines:                   24
+   Comment Lines:           3
+   Blank Lines:             6
+   Preprocessor Lines:      3
+   Code Lines:              12
+   Inactive Lines:          0
+   Executable Code Lines:   16
+   Declarative Code Lines:  4
+   Execution Statements:    4
+   Declaration Statements:  4
+   Ratio Comment/Code:      0.25
+   Units                    1
+
+main.cpp
+   Lines:                   10
+   Comment Lines:           0
+   Blank Lines:             3
+   Preprocessor Lines:      2
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.00
+   Units                    1
+
+main.cpp
+   Lines:                   20
+   Comment Lines:           0
+   Blank Lines:             4
+   Preprocessor Lines:      1
+   Code Lines:              15
+   Inactive Lines:          0
+   Executable Code Lines:   5
+   Declarative Code Lines:  3
+   Execution Statements:    6
+   Declaration Statements:  4
+   Ratio Comment/Code:      0.00
+   Units                    3
+
+main.cpp
+   Lines:                   10
+   Comment Lines:           0
+   Blank Lines:             3
+   Preprocessor Lines:      2
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.00
+   Units                    1
+                                                                     Page 45
+                                  File Metrics
+===============================================================================
+
+main.cpp
+   Lines:                   9
+   Comment Lines:           0
+   Blank Lines:             2
+   Preprocessor Lines:      2
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.00
+   Units                    1
+
+main.cpp
+   Lines:                   18
+   Comment Lines:           0
+   Blank Lines:             5
+   Preprocessor Lines:      1
+   Code Lines:              12
+   Inactive Lines:          0
+   Executable Code Lines:   5
+   Declarative Code Lines:  4
+   Execution Statements:    4
+   Declaration Statements:  5
+   Ratio Comment/Code:      0.00
+   Units                    2
+
+main.cpp
+   Lines:                   10
+   Comment Lines:           0
+   Blank Lines:             3
+   Preprocessor Lines:      2
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.00
+   Units                    1
+
+main.cpp
+   Lines:                   10
+   Comment Lines:           0
+   Blank Lines:             3
+   Preprocessor Lines:      1
+   Code Lines:              6
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  2
+   Execution Statements:    1
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+   Units                    1
+                                                                     Page 46
+                                  File Metrics
+===============================================================================
+
+main.cpp
+   Lines:                   30
+   Comment Lines:           1
+   Blank Lines:             6
+   Preprocessor Lines:      1
+   Code Lines:              23
+   Inactive Lines:          0
+   Executable Code Lines:   9
+   Declarative Code Lines:  6
+   Execution Statements:    8
+   Declaration Statements:  11
+   Ratio Comment/Code:      0.04
+   Units                    3
+
+main.cpp
+   Lines:                   10
+   Comment Lines:           0
+   Blank Lines:             3
+   Preprocessor Lines:      2
+   Code Lines:              5
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  1
+   Execution Statements:    2
+   Declaration Statements:  1
+   Ratio Comment/Code:      0.00
+   Units                    1
+
+main.cpp
+   Lines:                   35
+   Comment Lines:           0
+   Blank Lines:             6
+   Preprocessor Lines:      1
+   Code Lines:              28
+   Inactive Lines:          0
+   Executable Code Lines:   8
+   Declarative Code Lines:  8
+   Execution Statements:    9
+   Declaration Statements:  22
+   Ratio Comment/Code:      0.00
+   Units                    3
+
+main.cpp
+   Lines:                   11
+   Comment Lines:           0
+   Blank Lines:             2
+   Preprocessor Lines:      3
+   Code Lines:              6
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  2
+   Execution Statements:    1
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+   Units                    1
+                                                                     Page 47
+                                  File Metrics
+===============================================================================
+
+main.cpp
+   Lines:                   11
+   Comment Lines:           0
+   Blank Lines:             2
+   Preprocessor Lines:      3
+   Code Lines:              6
+   Inactive Lines:          0
+   Executable Code Lines:   1
+   Declarative Code Lines:  2
+   Execution Statements:    1
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+   Units                    1
+
+main.cpp
+   Lines:                   32
+   Comment Lines:           0
+   Blank Lines:             7
+   Preprocessor Lines:      5
+   Code Lines:              20
+   Inactive Lines:          0
+   Executable Code Lines:   9
+   Declarative Code Lines:  6
+   Execution Statements:    7
+   Declaration Statements:  11
+   Ratio Comment/Code:      0.00
+   Units                    3
+
+main.cpp
+   Lines:                   18
+   Comment Lines:           0
+   Blank Lines:             4
+   Preprocessor Lines:      1
+   Code Lines:              13
+   Inactive Lines:          0
+   Executable Code Lines:   3
+   Declarative Code Lines:  3
+   Execution Statements:    3
+   Declaration Statements:  3
+   Ratio Comment/Code:      0.00
+   Units                    3
+
+maincpp.cpp
+   Lines:                   21
+   Comment Lines:           0
+   Blank Lines:             4
+   Preprocessor Lines:      1
+   Code Lines:              16
+   Inactive Lines:          0
+   Executable Code Lines:   5
+   Declarative Code Lines:  4
+   Execution Statements:    5
+   Declaration Statements:  6
+   Ratio Comment/Code:      0.00
+   Units                    2
+                                                                     Page 48
+                                  File Metrics
+===============================================================================
+
+stdafx.cpp
+   Lines:                   1
+   Comment Lines:           0
+   Blank Lines:             0
+   Preprocessor Lines:      1
+   Code Lines:              0
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+   Units                    0
+
+stdafx.h
+   Lines:                   16
+   Comment Lines:           7
+   Blank Lines:             6
+   Preprocessor Lines:      4
+   Code Lines:              0
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+   Units                    0
+
+targetver.h
+   Lines:                   8
+   Comment Lines:           3
+   Blank Lines:             3
+   Preprocessor Lines:      2
+   Code Lines:              0
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  0
+   Ratio Comment/Code:      0.00
+   Units                    0
+
+TestDll.cpp
+   Lines:                   14
+   Comment Lines:           2
+   Blank Lines:             3
+   Preprocessor Lines:      3
+   Code Lines:              6
+   Inactive Lines:          0
+   Executable Code Lines:   2
+   Declarative Code Lines:  5
+   Execution Statements:    3
+   Declaration Statements:  3
+   Ratio Comment/Code:      0.33
+   Units                    1
+                                                                     Page 49
+                                  File Metrics
+===============================================================================
+
+TestDll.h
+   Lines:                   2
+   Comment Lines:           0
+   Blank Lines:             0
+   Preprocessor Lines:      1
+   Code Lines:              1
+   Inactive Lines:          0
+   Executable Code Lines:   0
+   Declarative Code Lines:  0
+   Execution Statements:    0
+   Declaration Statements:  2
+   Ratio Comment/Code:      0.00
+   Units                    0
+                                                                     Page 50
+                          File Average Metrics Report
+===============================================================================
+
+AliveSampleCode.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              4
+   Code                               4
+   Comment                            0
+   Blank                              0
+
+AliveSampleCode.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+AliveSampleCode2.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              4
+   Code                               4
+   Comment                            0
+   Blank                              0
+
+AliveSampleCode4.h
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              4
+   Code                               4
+   Comment                            0
+   Blank                              0
+
+AliveSampleCode7.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              4
+   Code                               4
+   Comment                            0
+   Blank                              0
+
+AliveSampleCode7.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+                                                                     Page 51
+                          File Average Metrics Report
+===============================================================================
+
+AliveSampleCode9.h
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              4
+   Code                               4
+   Comment                            0
+   Blank                              0
+
+dllmain.cpp
+   Cyclomatic                         5
+   Modified                           2
+   Strict                             5
+   Essential                          1
+   Lines                              15
+   Code                               15
+   Comment                            0
+   Blank                              0
+
+main.cpp
+   Cyclomatic                         2
+   Modified                           2
+   Strict                             2
+   Essential                          1
+   Lines                              18
+   Code                               11
+   Comment                            3
+   Blank                              4
+
+main.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              5
+   Code                               5
+   Comment                            0
+   Blank                              0
+
+main.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              5
+   Code                               5
+   Comment                            0
+   Blank                              0
+
+main.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              5
+   Code                               5
+   Comment                            0
+   Blank                              0
+                                                                     Page 52
+                          File Average Metrics Report
+===============================================================================
+
+main.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              6
+   Code                               5
+   Comment                            0
+   Blank                              1
+
+main.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              7
+   Code                               6
+   Comment                            0
+   Blank                              1
+
+main.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              5
+   Code                               5
+   Comment                            0
+   Blank                              0
+
+main.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              5
+   Code                               5
+   Comment                            0
+   Blank                              0
+
+main.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              7
+   Code                               6
+   Comment                            0
+   Blank                              1
+
+main.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              5
+   Code                               5
+   Comment                            0
+   Blank                              0
+                                                                     Page 53
+                          File Average Metrics Report
+===============================================================================
+
+main.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              7
+   Code                               6
+   Comment                            0
+   Blank                              1
+
+main.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              7
+   Code                               6
+   Comment                            0
+   Blank                              1
+
+main.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              7
+   Code                               6
+   Comment                            0
+   Blank                              1
+
+main.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              6
+   Code                               5
+   Comment                            0
+   Blank                              1
+
+main.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              4
+   Code                               4
+   Comment                            0
+   Blank                              0
+
+maincpp.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              6
+   Code                               6
+   Comment                            0
+   Blank                              1
+                                                                     Page 54
+                          File Average Metrics Report
+===============================================================================
+
+stdafx.cpp
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+stdafx.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+targetver.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+
+TestDll.cpp
+   Cyclomatic                         1
+   Modified                           1
+   Strict                             1
+   Essential                          1
+   Lines                              5
+   Code                               5
+   Comment                            0
+   Blank                              0
+
+TestDll.h
+   Cyclomatic                         0
+   Modified                           0
+   Strict                             0
+   Essential                          0
+   Lines                              0
+   Code                               0
+   Comment                            0
+   Blank                              0
+                                                                     Page 55
+                              Class Metrics Report
+===============================================================================
+AliveSampleCode7:
+  Lines                     11
+  Lines Blank                1
+  Lines Code                10
+  Lines Comment              0
+  Average Lines              4
+  Average Lines Comment      0
+  Average Complexity         1
+  Maximum Complexity         1
+  Ratio Comment/Code      0.00
+
+Child:
+  Lines                      8
+  Lines Blank                0
+  Lines Code                 8
+  Lines Comment              0
+  Average Lines              4
+  Average Lines Comment      0
+  Average Complexity         1
+  Maximum Complexity         1
+  Ratio Comment/Code      0.00
+
+ClassObject:
+  Lines                     15
+  Lines Blank                1
+  Lines Code                14
+  Lines Comment              0
+  Average Lines              5
+  Average Lines Comment      0
+  Average Complexity         1
+  Maximum Complexity         1
+  Ratio Comment/Code      0.00
+
+Parent:
+  Lines                      8
+  Lines Blank                0
+  Lines Code                 8
+  Lines Comment              0
+  Average Lines              4
+  Average Lines Comment      0
+  Average Complexity         1
+  Maximum Complexity         1
+  Ratio Comment/Code      0.00
+
+StaticMemmber:
+  Lines                      9
+  Lines Blank                0
+  Lines Code                 9
+  Lines Comment              0
+  Average Lines              5
+  Average Lines Comment      0
+  Average Complexity         1
+  Maximum Complexity         1
+  Ratio Comment/Code      0.00
+
+                                                                     Page 56
+                              Class Metrics Report
+===============================================================================
+TestClass:
+  Lines                     12
+  Lines Blank                1
+  Lines Code                11
+  Lines Comment              0
+  Average Lines              4
+  Average Lines Comment      0
+  Average Complexity         1
+  Maximum Complexity         1
+  Ratio Comment/Code      0.00
+
+                                                                     Page 57
+                            Class OO Metrics Report
+===============================================================================
+AliveSampleCode7:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             0
+  IFANIN (Count of Base Classes)            0
+  CBO    (Count of Coupled Classes)         0
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)             1
+  NIM    (Count of Instance Methods)        0
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 1
+
+Child:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             1
+  IFANIN (Count of Base Classes)            1
+  CBO    (Count of Coupled Classes)         1
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)            14
+  NIM    (Count of Instance Methods)        7
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 7
+
+ClassObject:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             0
+  IFANIN (Count of Base Classes)            0
+  CBO    (Count of Coupled Classes)         1
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)             5
+  NIM    (Count of Instance Methods)        5
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 5
+
+Parent:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             0
+  IFANIN (Count of Base Classes)            0
+  CBO    (Count of Coupled Classes)         1
+  NOC    (Count of Derived Classes)         1
+  RFC    (Count of All Methods)             7
+  NIM    (Count of Instance Methods)        7
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 7
+
+StaticMemmber:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             0
+  IFANIN (Count of Base Classes)            0
+  CBO    (Count of Coupled Classes)         1
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)             1
+  NIM    (Count of Instance Methods)        0
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 1
+
+                                                                     Page 58
+                            Class OO Metrics Report
+===============================================================================
+TestClass:
+  LCOM   (Percent Lack of Cohesion)         0
+  DIT    (Max Inheritance Tree)             0
+  IFANIN (Count of Base Classes)            0
+  CBO    (Count of Coupled Classes)         1
+  NOC    (Count of Derived Classes)         0
+  RFC    (Count of All Methods)             5
+  NIM    (Count of Instance Methods)        5
+  NIV    (Count of Instance Variables)      0
+  WMC    (Count of Methods)                 5
+
+                                                                     Page 59
+                           Uninitialized Items Report
+
+  Def: Items that have not been given an initial value at point of definition.
+===============================================================================
+
+main.cpp   Line
+    test      7
+
+main.cpp   Line
+    test      7
+                                                                     Page 60
+                          Unused Objects and Functions
+
+Def: A variable that is not read from, written to after declaration, 
+or passed to a function, function parameters that are unused in the function, 
+and functions that have no invocations. 
+===============================================================================
+
+maincpp.cpp                              Line
+    main - Function                        15
+
+main.cpp                                 Line
+    main - Function                         4
+
+dllmain.cpp                              Line
+    DllMain - Function                      4
+    hModule - Parameter                     4
+      Declared in: DllMain()
+    lpReserved - Parameter                  6
+      Declared in: DllMain()
+
+main.cpp                                 Line
+    main - Function                         7
+
+main.cpp                                 Line
+    main - Function                         5
+    test - Local Object                     7
+
+main.cpp                                 Line
+    main - Function                         5
+    test - Local Object                     7
+
+main.cpp                                 Line
+    main - Function                        16
+
+main.cpp                                 Line
+    AliveFunction1 - Function               9
+    AliveFunction1_2 - Function            14
+    main - Function                         3
+
+AliveSampleCode2.cpp                     Line
+    AliveFunction2 - Function               3
+    AliveFunction2_2 - Function             8
+
+main.cpp                                 Line
+    main - Function                         3
+
+AliveSampleCode.cpp                      Line
+    HeaderDefineFunction2 - Function        9
+
+main.cpp                                 Line
+    main - Function                         5
+
+main.cpp                                 Line
+    main - Function                         5
+
+main.cpp                                 Line
+    [unnamed] - Unresolved Parameter       12
+      Declared in: main.cpp()
+    main - Function                        10
+                                                                     Page 61
+                          Unused Objects and Functions
+
+Def: A variable that is not read from, written to after declaration, 
+or passed to a function, function parameters that are unused in the function, 
+and functions that have no invocations. 
+===============================================================================
+
+main.cpp                                 Line
+    [unnamed] - Unresolved Parameter        5
+      Declared in: ClassObject::ClassObject()
+    [unnamed] - Unresolved Parameter        5
+      Declared in: ClassObject::ClassObject()
+    main - Function                        21
+
+main.cpp                                 Line
+    main - Function                         5
+
+main.cpp                                 Line
+    [unnamed] - Unresolved Parameter       14
+      Declared in: Child::Child()
+    [unnamed] - Unresolved Parameter       14
+      Declared in: Child::Child()
+    [unnamed] - Unresolved Parameter       14
+      Declared in: Child::operator=()
+    [unnamed] - Unresolved Parameter       14
+      Declared in: Child::operator=()
+    [unnamed] - Unresolved Parameter        5
+      Declared in: Parent::Parent()
+    [unnamed] - Unresolved Parameter        5
+      Declared in: Parent::Parent()
+    [unnamed] - Unresolved Parameter        5
+      Declared in: Parent::operator=()
+    [unnamed] - Unresolved Parameter        5
+      Declared in: Parent::operator=()
+    main - Function                        23
+
+main.cpp                                 Line
+    main - Function                         5
+
+main.cpp                                 Line
+    [unnamed] - Unresolved Parameter        9
+      Declared in: TestClass::TestClass()
+    [unnamed] - Unresolved Parameter        9
+      Declared in: TestClass::TestClass()
+    main - Function                        22
+                                                                     Page 62
+                             Unused Objects Report
+===============================================================================
+
+dllmain.cpp
+    hModule         4
+    lpReserved      6
+
+main.cpp
+    test            7
+
+main.cpp
+    test            7
+
+main.cpp
+    [unnamed]      12
+
+main.cpp
+    [unnamed]       5
+    [unnamed]       5
+
+main.cpp
+    [unnamed]      14
+    [unnamed]      14
+    [unnamed]      14
+    [unnamed]      14
+    [unnamed]       5
+    [unnamed]       5
+    [unnamed]       5
+    [unnamed]       5
+
+main.cpp
+    [unnamed]       9
+    [unnamed]       9
+                                                                     Page 63
+                              Unused Types Report
+===============================================================================
+
+main.cpp
+    Child     14
+                                                                     Page 64
+                          Unused Program Units Report
+===============================================================================
+
+maincpp.cpp
+    main                      15
+
+main.cpp
+    main                       4
+
+dllmain.cpp
+    DllMain                    4
+
+main.cpp
+    main                       7
+
+main.cpp
+    main                       5
+
+main.cpp
+    main                       5
+
+main.cpp
+    main                      16
+
+main.cpp
+    AliveFunction1             9
+    AliveFunction1_2          14
+    main                       3
+
+AliveSampleCode2.cpp
+    AliveFunction2             3
+    AliveFunction2_2           8
+
+main.cpp
+    main                       3
+
+AliveSampleCode.cpp
+    HeaderDefineFunction2      9
+
+main.cpp
+    main                       5
+
+main.cpp
+    main                       5
+
+main.cpp
+    main                      10
+
+main.cpp
+    main                      21
+
+main.cpp
+    main                       5
+
+main.cpp
+    main                      23
+                                                                     Page 65
+                          Unused Program Units Report
+===============================================================================
+
+main.cpp
+    main                       5
+
+main.cpp
+    main                      22
