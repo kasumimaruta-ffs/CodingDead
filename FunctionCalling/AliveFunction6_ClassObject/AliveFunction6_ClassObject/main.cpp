@@ -16,6 +16,18 @@ public:
 		cout << "Print Test Pointer." << endl;
 		return;
 	}
+
+	void DeadPrint()
+	{
+		cout << "Print Test." << endl;
+		return;
+	}
+
+	void DeadPrintPointer()
+	{
+		cout << "Print Test Pointer." << endl;
+		return;
+	}
 };
 
 int main()
