@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../TestDll/TestDll.h"
+#include "TestDll.h"
 #include <windows.h>
 
 typedef void(*FUNC)();

@@ -13,17 +13,6 @@ void WrapperFunction()
 	TestFunction();
 }
 
-void DeadTestFunction()
-{
-	cout << "TestFunction" << endl;
-}
-
-void DeadWrapperFunction()
-{
-	cout << "TestFunction Wrapper" << endl;
-	TestFunction();
-}
-
 int main()
 {
 	WrapperFunction();

@@ -17,12 +17,6 @@ public:
 		cout << "Function" << endl;
 		return;
 	}
-
-	void DeadFunction()
-	{
-		cout << "Function" << endl;
-		return;
-	}
 };
 
 int main() {

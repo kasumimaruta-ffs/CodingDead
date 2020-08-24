@@ -1,8 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中間ディレクトリ (x64\Debug\) に別のプロジェクト (TestDll11.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
-  stdafx.cpp
-  TestDll.cpp
-  dllmain.cpp
-  コードを生成中...
-     ライブラリ C:\Users\12810474\2020上_自己研鑽\CodingDead\FunctionCalling\x64\Debug\TestDll.lib とオブジェクト C:\Users\12810474\2020上_自己研鑽\CodingDead\FunctionCalling\x64\Debug\TestDll.exp を作成中
-  TestDll.vcxproj -> C:\Users\12810474\2020上_自己研鑽\CodingDead\FunctionCalling\x64\Debug\TestDll.dll
-  TestDll.vcxproj -> C:\Users\12810474\2020上_自己研鑽\CodingDead\FunctionCalling\x64\Debug\TestDll.pdb (Partial PDB)

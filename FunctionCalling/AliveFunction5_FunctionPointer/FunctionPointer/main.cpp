@@ -7,11 +7,6 @@ int Exponentiation(int x)
 	return x*x;
 }
 
-int DeadExponentiation(int x)
-{
-	return x*x;
-}
-
 int main()
 {
 	int(*functionPointer)(int) = Exponentiation;

@@ -11,11 +11,4 @@ public:
 		cout << "TestClass.Function()" << endl;
 		return;
 	}
-
-	void DeadFunction(void)
-	{
-		using namespace std;
-		cout << "TestClass.Function()" << endl;
-		return;
-	}
 };

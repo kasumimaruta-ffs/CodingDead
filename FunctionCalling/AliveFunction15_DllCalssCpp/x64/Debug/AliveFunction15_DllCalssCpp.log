@@ -1,3 +1,0 @@
-﻿     ライブラリ \\CFS-04\HOME4\12810474\My Documents\GitHub\CodingDead\FunctionCalling\x64\Debug\AliveFunction15_DllCalssCpp.lib とオブジェクト \\CFS-04\HOME4\12810474\My Documents\GitHub\CodingDead\FunctionCalling\x64\Debug\AliveFunction15_DllCalssCpp.exp を作成中
-main.obj : error LNK2019: 未解決の外部シンボル "public: void __cdecl TestClass::Function(void)" (?Function@TestClass@@QEAAXXZ) が関数 main で参照されました。
-\\CFS-04\HOME4\12810474\My Documents\GitHub\CodingDead\FunctionCalling\x64\Debug\AliveFunction15_DllCalssCpp.exe : fatal error LNK1120: 1 件の未解決の外部参照

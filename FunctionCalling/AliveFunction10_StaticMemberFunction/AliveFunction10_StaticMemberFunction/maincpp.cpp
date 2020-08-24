@@ -10,12 +10,6 @@ public:
 		cout << "Static Member Function." << endl;
 		return;
 	}
-
-	static void DeadPrint()
-	{
-		cout << "Static Member Function." << endl;
-		return;
-	}
 };
 
 int main()

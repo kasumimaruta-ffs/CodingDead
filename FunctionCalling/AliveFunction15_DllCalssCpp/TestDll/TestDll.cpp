@@ -12,9 +12,3 @@ void TestClass::Function(void)
 	cout << "TestClass.Function()" << endl;
 	return;
 }
-
-void TestClass::DeadFunction(void)
-{
-	cout << "TestClass.Function()" << endl;
-	return;
-}

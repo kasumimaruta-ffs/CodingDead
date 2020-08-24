@@ -20,24 +20,6 @@ public:
 	}
 };
 
-class DeadParent
-{
-public:
-	virtual void Print()
-	{
-		cout << "Parent" << endl;
-	}
-};
-
-class DeadChild : public DeadParent
-{
-public:
-	void Print() override
-	{
-		cout << "Child" << endl;
-	}
-};
-
 int main()
 {
 	Parent* polymorphism[2] = { new Parent,
