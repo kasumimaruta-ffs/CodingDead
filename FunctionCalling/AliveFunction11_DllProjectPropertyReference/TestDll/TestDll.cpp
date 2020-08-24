@@ -12,3 +12,9 @@ extern "C" void __declspec(dllexport) DllFunctionTest()
 	cout << "Call Dll Function." << std::endl;
 	return;
 }
+
+extern "C" void __declspec(dllexport) DeadDllFunctionTest()
+{
+	cout << "Call Dll Function." << std::endl;
+	return;
+}

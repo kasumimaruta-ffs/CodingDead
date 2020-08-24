@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: 未解決の外部シンボル DllFunctionTest が関数 main で参照されました。
+\\CFS-04\HOME4\12810474\My Documents\GitHub\CodingDead\FunctionCalling\x64\Debug\AliveFunction11_DllProjectPropertyReference.exe : fatal error LNK1120: 1 件の未解決の外部参照

@@ -1,5 +1,5 @@
 #include <iostream>
-#include "TestDll.h"
+#include "../TestDll/TestDll.h"
 
 int main()
 {
