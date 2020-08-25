@@ -9,6 +9,11 @@ public:
 	{
 		cout << "Parent" << endl;
 	}
+
+	virtual void Print2()
+	{
+		cout << "Parent!" << endl;
+	}
 };
 
 class Child : public Parent
@@ -18,23 +23,24 @@ public:
 	{
 		cout << "Child" << endl;
 	}
-};
 
-class DeadParent
-{
-public:
-	virtual void Print()
+	void Print2() override
 	{
-		cout << "Parent" << endl;
+		cout << "Child!" << endl;
 	}
 };
 
-class DeadChild : public DeadParent
+class DeadChild : public Parent
 {
 public:
 	void Print() override
 	{
-		cout << "Child" << endl;
+		cout << "DeadChild" << endl;
+	}
+
+	void Print2() override
+	{
+		cout << "DeadChild!" << endl;
 	}
 };
 
@@ -42,6 +48,9 @@ int main()
 {
 	Parent* polymorphism[2] = { new Parent,
 								new Child };
+
+	Parent* polymorphismDead[2] = { new Parent,
+									new DeadChild };
 
 	for( int i = 0; i < sizeof(polymorphism)/ sizeof(polymorphism[0]); i++ )
 	{

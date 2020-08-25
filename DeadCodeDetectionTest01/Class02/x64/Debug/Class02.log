@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\12810474\2020上_自己研鑽\codingdead\deadcodedetectiontest01\class02\main.cpp(18): warning C4101: 'variable': ローカル変数は 1 度も使われていません。
+  Class02.vcxproj -> C:\Users\12810474\2020上_自己研鑽\CodingDead\DeadCodeDetectionTest01\x64\Debug\Class02.exe
+  Class02.vcxproj -> C:\Users\12810474\2020上_自己研鑽\CodingDead\DeadCodeDetectionTest01\x64\Debug\Class02.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\12810474\2020上_自己研鑽\codingdead\deadcodedetectiontest01\variable06\main.cpp(8): warning C4101: 'scopeFunction': ローカル変数は 1 度も使われていません。
+  Variable06.vcxproj -> C:\Users\12810474\2020上_自己研鑽\CodingDead\DeadCodeDetectionTest01\x64\Debug\Variable06.exe
+  Variable06.vcxproj -> C:\Users\12810474\2020上_自己研鑽\CodingDead\DeadCodeDetectionTest01\x64\Debug\Variable06.pdb (Partial PDB)
